@@ -45,6 +45,8 @@ The dashboard provides real-time insights into:
 
 📄Table values generator.py ----> # When you run this python file it will generate csv files containing data for all the tables in this project. You will have to import each csv file's data to its corresponding table.
 
+📄PharmaRoute Dashboard.pbix ----> # Power BI Dashboard for PharmaRoute project
+
 (Data for all the tables for this project generated using 'Table values generator.py') <br>
 📄deliveries.csv<br>
 📄feedback.csv<br>
@@ -60,6 +62,7 @@ The dashboard provides real-time insights into:
 2. Run Table values generator.py file, which will generate synthetic csv files for all tables. Or you can use the csv files attached here.
 3. Import the data in all the tables from their corressponding csv files using wizard import in MySQL workbench.
 4. Run all the Phase files
+5. Open PharmaRouth Dashboard file for powerBI Dashboard
 
 ## 📩 Contact
 For any queries, feel free to reach out via karnakarvivek@gmail.com.
