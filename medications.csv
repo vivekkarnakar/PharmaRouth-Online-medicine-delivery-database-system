@@ -1,0 +1,311 @@
+medication_id,name,description,price,stock_quantity,category,prescription_required
+M1,Paracetamol,"Pain reliever, fever reducer.",2540.83,346,Anxiolytics,0
+M2,Ibuprofen,Pain and inflammation reliever.,2576.74,381,Vaccines,0
+M3,Amoxicillin,Antibiotic.,3852.0,371,Anxiolytics,1
+M4,Metformin,Diabetes medication.,3085.54,163,Calcium Channel Blockers,1
+M5,Atorvastatin,Cholesterol-lowering.,4802.53,116,Tetracyclines,0
+M6,Lisinopril,Blood pressure medication.,4420.15,176,Antivirals,0
+M7,Amlodipine,Blood pressure medication.,926.72,237,Respiratory Medications,1
+M8,Omeprazole,Reduces stomach acid.,2390.23,74,Diuretics,1
+M9,Albuterol,Bronchodilator (for breathing).,2315.05,116,Allergy Medications,1
+M10,Simvastatin,Cholesterol-lowering.,298.47,19,Corticosteroids (Inhaled),1
+M11,Losartan,Blood pressure medication.,2884.57,147,Sedative-Hypnotics,0
+M12,Levothyroxine,Thyroid hormone.,4395.63,73,Diuretics,1
+M13,Cetirizine,Allergy relief.,4797.87,33,Endocrine Medications,1
+M14,Furosemide,Diuretic (water pill).,4192.78,385,ACE Inhibitors,1
+M15,Fluoxetine,Antidepressant.,804.84,265,Penicillins,1
+M16,Clopidogrel,Blood thinner.,4743.6,327,Vitamins and Supplements,0
+M17,Gabapentin,"Nerve pain, seizures.",4940.29,250,Tetracyclines,0
+M18,Hydrochlorothiazide,Diuretic.,1401.22,223,Vaccines,0
+M19,Montelukast,"Asthma, allergies.",3291.16,271,Gastrointestinal Medications,1
+M20,Prednisone,Steroid (anti-inflammatory).,2657.39,314,Antihypertensives,1
+M21,Tramadol,Pain reliever.,2522.6,39,Anticonvulsants/Antiepileptics,0
+M22,Azithromycin,Antibiotic.,1849.9,205,Bronchodilators,0
+M23,Ciprofloxacin,Antibiotic.,1613.28,325,Cardiovascular Medications,0
+M24,Pantoprazole,Reduces stomach acid.,2326.01,373,Muscle Relaxants,1
+M25,Aspirin,"Pain, fever, blood thinner.",1668.03,159,Antidepressants,0
+M26,Warfarin,Blood thinner.,4688.73,223,Antiplatelets,1
+M27,Ranitidine,Reduces stomach acid (less common now).,3612.55,93,Antibiotics,0
+M28,Carvedilol,"Blood pressure, heart failure.",969.65,97,Endocrine Medications,1
+M29,Doxycycline,Antibiotic.,3309.38,165,Tetracyclines,1
+M30,Sertraline,Antidepressant.,2224.12,293,H2 Receptor Antagonists,0
+M31,Loratadine,Allergy relief.,1741.88,385,Proton Pump Inhibitors (PPIs),0
+M32,Metoprolol,Blood pressure.,348.43,353,Endocrine Medications,1
+M33,Zolpidem,Sleep aid.,4315.55,259,Analgesics (Pain relievers),0
+M34,Glipizide,Diabetes medication.,665.64,186,Thyroid Hormones,1
+M35,Clonazepam,"Anxiety, seizures.",930.63,224,Penicillins,0
+M36,Escitalopram,Antidepressant.,2956.37,154,Macrolides,0
+M37,Lorazepam,Anxiety.,2235.46,87,Immunosuppressants,1
+M38,Diazepam,"Anxiety, seizures.",4877.66,270,Topical Corticosteroids,0
+M39,Omeprazole,Pain reliever.,2559.5,242,Analgesics (Pain relievers),1
+M40,Oxycodone,"Pain, inflammation.",1792.55,143,Anticoagulants,1
+M41,Meloxicam,"Pain, inflammation.",3020.12,329,Antipsychotics,1
+M42,Naproxen,Heart rhythm.,3755.48,295,Antihypertensives,1
+M43,Amiodarone,Muscle relaxant.,1238.41,39,Immunosuppressants,0
+M44,Cyclobenzaprine,Antibiotic.,3116.32,241,Antifungals,1
+M45,Cephalexin,Prostate.,4696.07,355,SSRIs (Selective Serotonin Reuptake Inhibitors),0
+M46,Tamsulosin,"Antidepressant, smoking cessation.",2631.74,23,Leukotriene Receptor Antagonists,0
+M47,Bupropion,Antidepressant.,4902.45,78,Fluoroquinolones,1
+M48,Venlafaxine,Cholesterol-lowering.,1260.55,177,Urinary Medications,0
+M49,Ezetimibe,Antibiotic.,1253.64,123,Vaccines,0
+M50,Sulfamethoxazole,Diuretic.,3884.09,172,Central Nervous System (CNS) Medications,0
+M51,Triamterene,Chest pain.,4562.7,243,ARBs (Angiotensin II Receptor Blockers),1
+M52,Nitroglycerin,Gout.,1439.03,308,Anticonvulsants/Antiepileptics,0
+M53,Allopurinol,Muscle relaxant.,2019.26,257,Penicillins,1
+M54,Baclofen,Long-acting insulin.,1191.42,283,Antihistamines,1
+M55,Lantus,"Seizures, mood stabilizer.",2809.75,23,Vitamins and Supplements,0
+M56,Lamotrigine,"Cancer, autoimmune.",937.73,183,Statins,1
+M57,Simvastatin,"Antidepressant, pain.",1787.49,101,Herbal Remedies,0
+M58,Amlodipine,Reduces stomach acid.,2917.51,364,Antibiotics,1
+M59,Methotrexate,Muscle relaxant.,2842.94,305,Opioid Analgesics,1
+M60,Duloxetine,"Nausea, vomiting.",3206.48,233,Calcium Channel Blockers,0
+M61,Lansoprazole,Seizures.,2533.55,329,Bone Health Medications,1
+M62,Lisinopril,Blood thinner.,2866.73,282,Calcium Channel Blockers,0
+M63,Methocarbamol,Potassium supplement.,591.29,251,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),0
+M64,Ondansetron,Cholesterol-lowering.,3061.94,377,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),0
+M65,Phenytoin,"Blood pressure, anxiety.",1888.66,233,Respiratory Medications,0
+M66,Plavix,Antipsychotic.,3193.09,139,Antipsychotics,1
+M67,Potassium Chloride,Blood pressure.,1539.31,41,Topical Corticosteroids,0
+M68,Pravastatin,Antipsychotic.,3150.53,376,Opioid Analgesics,1
+M69,Propranolol,Antipsychotic.,3787.92,358,Antiemetics,1
+M70,Quetiapine,Diuretic.,314.94,153,Fluoroquinolones,1
+M71,Ramipril,Opioid dependence.,2566.38,92,Anticoagulants,0
+M72,Risperidone,Inflammation.,3290.08,75,Antidiabetics,1
+M73,Seroquel,Thyroid hormone.,3397.78,232,Opioid Analgesics,1
+M74,Spironolactone,Breast cancer.,4102.21,355,H2 Receptor Antagonists,1
+M75,Suboxone,"Antidepressant, sleep.",4499.56,92,Anticonvulsants/Antiepileptics,1
+M76,Sulfasalazine,Blood pressure.,4199.34,231,H2 Receptor Antagonists,1
+M77,Synthroid,"Blood pressure, heart.",588.62,133,Central Nervous System (CNS) Medications,1
+M78,Tamoxifen,Antidepressant.,4857.3,241,Antiplatelets,1
+M79,Trazodone,"Asthma, COPD.",3376.15,323,Topical Corticosteroids,1
+M80,Valsartan,Osteoporosis.,3786.51,80,Tetracyclines,0
+M81,Verapamil,Anxiety.,1262.51,341,Anticoagulants,1
+M82,Wellbutrin,"Antidepressant, pain.",2257.02,155,Fluoroquinolones,1
+M83,Zolpidem,Antipsychotic.,341.64,132,Analgesics (Pain relievers),1
+M84,Advair,Blood pressure.,3554.76,136,Proton Pump Inhibitors (PPIs),1
+M85,Alendronate,Blood pressure.,2634.75,60,H2 Receptor Antagonists,0
+M86,Alprazolam,Blood pressure.,4419.4,119,Allergy Medications,1
+M87,Amitriptyline,Steroid.,536.57,153,Antiarrhythmics,1
+M88,Aripiprazole,Blood pressure.,4380.74,126,Antiarrhythmics,0
+M89,Atenolol,Anxiety.,4072.73,147,Macrolides,0
+M90,Avapro,Blood pressure.,2624.8,36,Dermatological Medications,0
+M91,Benicar,Muscle relaxant.,2629.65,145,Central Nervous System (CNS) Medications,1
+M92,Betamethasone,Antibiotic.,666.31,376,Antivirals,0
+M93,Bisoprolol,Antibiotic.,2565.39,331,Leukotriene Receptor Antagonists,0
+M94,Buspirone,Antibiotic.,2358.0,256,Antiplatelets,0
+M95,Captopril,"Pain, inflammation.",4513.56,124,Diuretics,0
+M96,Carisoprodol,Antibiotic.,3009.06,62,Antiplatelets,0
+M97,Cefadroxil,Steroid (topical).,3925.27,99,Weight Loss Medications,0
+M98,Cefixime,Blood pressure.,4405.92,384,Antidepressants,0
+M99,Cefuroxime,Antipsychotic.,369.28,32,Immunosuppressants,0
+M100,Celecoxib,Gout.,2802.78,177,Anticonvulsants/Antiepileptics,0
+M101,Clarithromycin,Immunosuppressant.,368.56,180,Muscle Relaxants,0
+M102,Clobetasol,Allergy relief.,304.98,149,Corticosteroids (Inhaled),1
+M103,Clonidine,Antidepressant.,456.7,377,Vaccines,1
+M104,Clozapine,Steroid.,1571.91,89,Bronchodilators,1
+M105,Colchicine,"Pain, inflammation.",4951.32,215,Antiemetics,0
+M106,Cyclobenzaprine,Heart.,3615.69,155,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),0
+M107,Cyclosporine,"Blood pressure, heart.",4436.46,304,Weight Loss Medications,0
+M108,Desloratadine,"Allergy, sleep.",1672.23,296,Leukotriene Receptor Antagonists,1
+M109,Desvenlafaxine,"Seizures, mood.",531.7,95,Immunosuppressants,0
+M110,Dexamethasone,Alzheimer's.,2810.6,157,Opioid Analgesics,1
+M111,Diclofenac,"Prostate, blood pressure.",4942.6,156,Dermatological Medications,1
+M112,Digoxin,Birth control.,3991.81,153,SSRIs (Selective Serotonin Reuptake Inhibitors),0
+M113,Diltiazem,Blood pressure.,702.68,34,Macrolides,1
+M114,Diphenhydramine,Blood thinner.,4969.39,238,Urinary Medications,0
+M115,Divalproex,Reduces stomach acid.,3668.89,255,Central Nervous System (CNS) Medications,0
+M116,Donepezil,Hormone replacement.,2291.81,241,Antiemetics,1
+M117,Doxazosin,Hormone replacement.,2702.54,381,Thyroid Hormones,0
+M118,Drospirenone,Antibiotic (TB).,2273.36,149,Antiarrhythmics,0
+M119,Duloxetine,Reduces stomach acid.,4352.95,269,Antidiabetics,0
+M120,Enalapril,Pain reliever.,1480.45,107,Anticonvulsants/Antiepileptics,0
+M121,Enoxaparin,Iron supplement.,4133.1,139,Urinary Medications,1
+M122,Esomeprazole,Prostate.,4099.95,353,Cardiovascular Medications,0
+M123,Estradiol,Vitamin.,3563.39,10,Penicillins,1
+M124,Estrogen,Osteoporosis.,3168.82,388,Beta-Blockers,1
+M125,Ethambutol,Cholesterol.,4695.44,18,Antihypertensives,1
+M126,Famotidine,Diabetes.,2948.14,268,Statins,0
+M127,Fentanyl,Pain reliever.,2751.93,134,Antivirals,0
+M128,Ferrous Sulfate,Steroid.,4426.24,23,Gastrointestinal Medications,1
+M129,Flomax,"Anxiety, allergy.",1922.49,16,Antihistamines,1
+M130,Folic Acid,Antidepressant.,359.55,384,Antivirals,0
+M131,Fosamax,Diuretic.,745.16,220,Statins,0
+M132,Gemfibrozil,"Pain, inflammation.",818.08,56,Vitamins and Supplements,1
+M133,Glyburide,Diabetes.,1824.94,365,Muscle Relaxants,0
+M134,Hydrochlorothiazide,Blood pressure.,4888.95,267,Sedative-Hypnotics,0
+M135,Hydrocodone,Chest pain.,1178.42,147,Antianginals,1
+M136,Hydrocortisone,Acne.,571.2,208,Antidepressants,1
+M137,Hydroxyzine,Pain.,4274.56,135,Proton Pump Inhibitors (PPIs),0
+M138,Imipramine,Antibiotic.,2139.7,185,Proton Pump Inhibitors (PPIs),1
+M139,Indapamide,Numbing.,2602.59,368,Bone Health Medications,1
+M140,Indomethacin,Diabetes.,525.01,31,Allergy Medications,0
+M141,Insulin,Cholesterol.,2721.2,59,Anticonvulsants/Antiepileptics,0
+M142,Irbesartan,Antipsychotic.,1475.66,69,Weight Loss Medications,0
+M143,Isosorbide,Inflammatory bowel disease.,3214.42,181,Gastrointestinal Medications,0
+M144,Isotretinoin,"Pain, opioid dependence.",1294.2,386,SSRIs (Selective Serotonin Reuptake Inhibitors),0
+M145,Ketorolac,Thyroid.,1199.55,178,Tetracyclines,0
+M146,Lansoprazole,"Nausea, stomach emptying.",663.66,180,Gastrointestinal Medications,0
+M147,Levofloxacin,Antibiotic.,3450.87,384,Penicillins,1
+M148,Levothyroxine,Antibiotic.,4869.04,41,Urinary Medications,1
+M149,Lidocaine,Antidepressant.,4401.16,327,Calcium Channel Blockers,1
+M150,Liraglutide,Pain reliever.,1061.83,209,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),0
+M151,Loratadine,Antibiotic (topical).,4839.28,114,Antianginals,1
+M152,Losartan,"Pain, inflammation.",544.29,293,Respiratory Medications,1
+M153,Lovastatin,Blood pressure.,1621.3,234,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),0
+M154,Lurasidone,Cholesterol.,3831.37,202,Vitamins and Supplements,0
+M155,Meloxicam,Blood pressure.,4330.76,150,Macrolides,0
+M156,Mesalamine,Antibiotic.,744.26,178,Opioid Analgesics,0
+M157,Metformin,Birth control.,974.83,342,Central Nervous System (CNS) Medications,0
+M158,Methadone,Antidepressant.,4677.62,133,Muscle Relaxants,1
+M159,Methimazole,Antipsychotic.,3482.84,344,Anxiolytics,0
+M160,Methotrexate,Overactive bladder.,1954.81,43,Respiratory Medications,1
+M161,Metoclopramide,Antidepressant.,4513.88,295,Gastrointestinal Medications,0
+M162,Metoprolol,Antibiotic.,3367.88,50,Allergy Medications,0
+M163,Metronidazole,Weight loss.,2211.19,54,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),1
+M164,Minocycline,Diabetes.,2637.33,285,ACE Inhibitors,0
+M165,Mirtazapine,"Nausea, vomiting.",2807.34,261,Antibiotics,0
+M166,Montelukast,Antipsychotic.,4643.89,242,Respiratory Medications,0
+M167,Morphine,Blood pressure.,2694.36,252,Antiemetics,0
+M168,Mupirocin,Reduces stomach acid.,4769.21,65,Antiarrhythmics,1
+M169,Nabumetone,Blood pressure.,2277.4,86,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),0
+M170,Naproxen,Antiarrhythmic.,456.84,176,Opioid Analgesics,0
+M171,Nebivolol,Blood thinner.,1690.73,220,Antidiabetics,1
+M172,Niacin,Headaches.,4642.83,177,Topical Corticosteroids,0
+M173,Nifedipine,Cholesterol-lowering.,903.56,268,Dermatological Medications,1
+M174,Nitrofurantoin,Supplement.,3563.12,281,Corticosteroids (Inhaled),1
+M175,Norethindrone,Bronchodilator.,3185.4,298,SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors),1
+M176,Nortriptyline,Diabetes.,318.08,151,Cardiovascular Medications,0
+M177,Olanzapine,Supplement.,2680.54,130,Corticosteroids (Inhaled),1
+M178,Omeprazole,Overactive bladder.,3542.8,363,Antihypertensives,1
+M179,Ondansetron,Inflammation.,898.6,77,Antianginals,0
+M180,Oxybutynin,Antibiotic.,726.33,43,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),0
+M181,Oxycodone,Headaches.,1430.81,305,Thyroid Hormones,0
+M182,Pantoprazole,Immunosuppressant.,2208.14,299,SSRIs (Selective Serotonin Reuptake Inhibitors),1
+M183,Paroxetine,Erectile dysfunction.,3999.32,167,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),0
+M184,Penicillin,Breast cancer.,2456.82,25,Tetracyclines,1
+M185,Phentermine,Prostate.,3263.12,151,H2 Receptor Antagonists,0
+M186,Phenytoin,Prostate.,2024.0,104,Macrolides,0
+M187,Pioglitazone,Antifungal.,4509.65,46,Sedative-Hypnotics,0
+M188,Pravastatin,Hormone replacement.,995.47,132,Anticoagulants,1
+M189,Prednisone,Antibiotic.,2473.02,139,Vitamins and Supplements,0
+M190,Pregabalin,Bronchodilator.,3210.5,261,Dermatological Medications,1
+M191,Prochlorperazine,Muscle relaxant.,465.13,142,ACE Inhibitors,1
+M192,Promethazine,Antibiotic.,4938.81,331,Antivirals,0
+M193,Propranolol,Overactive bladder.,2629.41,208,H2 Receptor Antagonists,1
+M194,Quetiapine,Seizures.,4303.37,193,Antibiotics,0
+M195,Quinapril,Diuretic.,1215.67,112,Thyroid Hormones,0
+M196,Rabeprazole,Pain reliever.,1180.5,343,Muscle Relaxants,1
+M197,Raloxifene,"Antidepressant, sleep.",3404.58,162,Analgesics (Pain relievers),1
+M198,Ramipril,Steroid.,3355.06,278,Cardiovascular Medications,1
+M199,Ranolazine,Diuretic.,4399.85,360,Antipsychotics,0
+M200,Ranitidine,Antibiotic.,658.17,240,Anxiolytics,1
+M201,Repaglinide,Antiviral.,1388.83,165,Antidepressants,1
+M202,Risperidone,"Seizures, mood.",1459.29,335,Corticosteroids (Inhaled),1
+M203,Rivaroxaban,Blood pressure.,4546.03,205,ARBs (Angiotensin II Receptor Blockers),1
+M204,Rizatriptan,Antidepressant.,3697.73,100,Corticosteroids (Inhaled),1
+M205,Rosuvastatin,"Blood pressure, heart.",582.37,320,Herbal Remedies,0
+M206,S-adenosylmethionine,Diabetes.,4577.08,160,Statins,1
+M207,Salmeterol,Blood thinner.,2229.73,296,ACE Inhibitors,1
+M208,Saxagliptin,Sleep aid.,1460.67,293,Calcium Channel Blockers,0
+M209,Secukinumab,Antiviral.,777.2,170,Leukotriene Receptor Antagonists,0
+M210,Senna,Antipsychotic.,1354.9,83,Analgesics (Pain relievers),1
+M211,Sertraline,Osteoporosis.,670.42,29,Proton Pump Inhibitors (PPIs),1
+M212,Sildenafil,Headaches.,2729.63,23,Antihistamines,0
+M213,Simvastatin,Sleep aid.,4202.04,115,Beta-Blockers,1
+M214,Sitagliptin,Seizures.,4546.13,11,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),1
+M215,Sodium Bicarbonate,Vaccine.,2714.81,336,ARBs (Angiotensin II Receptor Blockers),0
+M216,Solifenacin,Antiviral.,1646.83,126,Diuretics,0
+M217,Spironolactone,Acne.,4500.42,219,Antihypertensives,1
+M218,Sulfasalazine,Bronchodilator.,1883.67,352,Analgesics (Pain relievers),1
+M219,Sulfamethoxazole,Gout.,1737.63,86,Antiemetics,1
+M220,Sumatriptan,Anxiety.,3512.3,381,Statins,1
+M221,Tacrolimus,Antiviral.,2272.8,25,Leukotriene Receptor Antagonists,1
+M222,Tadalafil,Heart rhythm.,3014.79,62,Bronchodilators,0
+M223,Tamoxifen,"Antidepressant, pain.",2784.17,193,Antianginals,1
+M224,Tamsulosin,Blood pressure medication.,4607.35,79,Endocrine Medications,1
+M225,Terazosin,Antibiotic.,2155.92,114,Antibiotics,1
+M226,Terbinafine,Stimulant.,4602.85,63,ARBs (Angiotensin II Receptor Blockers),1
+M227,Testosterone,Breast cancer.,427.42,291,Statins,1
+M228,Tetracycline,Blood thinner.,1836.6,55,Weight Loss Medications,0
+M229,Tiotropium,Antipsychotic.,2646.21,308,Beta-Blockers,0
+M230,Tizanidine,Antiviral.,3669.02,236,Allergy Medications,1
+M231,Tobramycin,Blood pressure.,986.67,266,Beta-Blockers,1
+M232,Tolterodine,ADHD.,1496.7,350,Endocrine Medications,1
+M233,Topiramate,Cholesterol-lowering.,1822.13,227,Bone Health Medications,1
+M234,Torsemide,Immunosuppressant.,2078.13,111,Bronchodilators,1
+M235,Tramadol,Antibiotic.,3021.33,327,Antiarrhythmics,0
+M236,Trazodone,Muscle relaxant.,2695.01,117,Bone Health Medications,1
+M237,Triamcinolone,Steroid.,4437.18,117,Antidiabetics,1
+M238,Triamterene,Blood pressure.,3030.4,10,SSRIs (Selective Serotonin Reuptake Inhibitors),1
+M239,Trimethoprim,Cough suppressant.,3901.72,36,Antipsychotics,0
+M240,Valacyclovir,Prostate cancer.,3607.06,277,Thyroid Hormones,1
+M241,Valproate,Blood pressure.,4693.88,147,Antipsychotics,1
+M242,Valsartan,Eye drops.,2139.12,124,Antihypertensives,0
+M243,Venlafaxine,Steroid.,1067.92,373,Anxiolytics,0
+M244,Verapamil,Diuretic.,3520.17,324,NSAIDs (Nonsteroidal Anti-inflammatory Drugs),1
+M245,Vildagliptin,"Antidepressant, smoking cessation.",3164.09,27,Endocrine Medications,0
+M246,Warfarin,Anxiety.,1934.19,284,Immunosuppressants,1
+M247,Zaleplon,Headaches.,1185.03,99,Diuretics,0
+M248,Zidovudine,Diabetes.,534.2,303,Antidepressants,1
+M249,Ziprasidone,Blood pressure.,3117.42,128,Muscle Relaxants,1
+M250,Zoledronic Acid,Cancer.,3733.01,296,Antiemetics,1
+M251,Zolmitriptan,Blood pressure.,1120.88,158,Herbal Remedies,0
+M252,Zolpidem,Muscle relaxant.,3464.19,326,Anticoagulants,0
+M253,Zonisamide,Heart rhythm.,4744.09,246,Dermatological Medications,1
+M254,Zoster Vaccine,Antibiotic.,4247.58,100,Anticoagulants,0
+M255,Acyclovir,Antibiotic.,1348.37,232,Antidepressants,0
+M256,Adapalene,Antibiotic.,657.51,294,Penicillins,1
+M257,Albuterol,"Pain, inflammation.",630.06,294,Antihistamines,1
+M258,Allopurinol,Antibiotic.,3493.2,20,Immunosuppressants,0
+M259,Alprazolam,Steroid (topical).,2759.37,131,ARBs (Angiotensin II Receptor Blockers),0
+M260,Amantadine,Contraception.,1856.75,97,Central Nervous System (CNS) Medications,0
+M261,Amiodarone,Antipsychotic.,2791.14,67,Sedative-Hypnotics,0
+M262,Amitriptyline,Gout.,2096.85,86,SSRIs (Selective Serotonin Reuptake Inhibitors),1
+M263,Amlodipine,Immunosuppressant.,3473.57,159,Calcium Channel Blockers,1
+M264,Amoxicillin,Allergy relief.,1262.67,382,Antidiabetics,0
+M265,Amphetamine,Antidepressant.,2116.88,370,Dermatological Medications,1
+M266,Anastrozole,Steroid.,3411.67,166,Antifungals,0
+M267,Apixaban,"Pain, inflammation.",2777.22,360,Topical Corticosteroids,0
+M268,Aripiprazole,Heart.,2004.18,25,Cardiovascular Medications,1
+M269,Atazanavir,"Blood pressure, heart.",3267.61,247,Fluoroquinolones,1
+M270,Atenolol,"Allergy, sleep.",4415.94,32,Bronchodilators,0
+M271,Atomoxetine,"Seizures, mood.",3552.61,328,Antihistamines,0
+M272,Atorvastatin,Alzheimer's.,2990.09,116,Weight Loss Medications,1
+M273,Azathioprine,"Prostate, blood pressure.",2763.42,49,Respiratory Medications,0
+M274,Azithromycin,Contraception.,2729.3,130,Leukotriene Receptor Antagonists,1
+M275,Baclofen,Blood pressure.,3117.86,243,ACE Inhibitors,0
+M276,Beclomethasone,Blood thinner.,1659.19,310,Topical Corticosteroids,0
+M277,Benazepril,Reduces stomach acid.,3168.0,62,Macrolides,0
+M278,Benzonatate,Hormone replacement.,4639.92,180,Cardiovascular Medications,1
+M279,Bicalutamide,Hormone replacement.,2713.07,370,ACE Inhibitors,1
+M280,Bisoprolol,Antibiotic (TB).,2142.11,34,Fluoroquinolones,0
+M281,Brimonidine,Reduces stomach acid.,1995.07,300,ARBs (Angiotensin II Receptor Blockers),0
+M282,Budesonide,Pain reliever.,1043.14,277,Allergy Medications,1
+M283,Bumetanide,Iron supplement.,4915.94,286,Antifungals,1
+M284,Bupropion,Prostate.,2049.43,81,Beta-Blockers,1
+M285,Buspirone,Vitamin.,3301.29,251,Antianginals,1
+M286,Butalbital,Osteoporosis.,3127.58,283,Proton Pump Inhibitors (PPIs),0
+M287,Canagliflozin,Cholesterol.,1675.19,67,Herbal Remedies,0
+M288,Candesartan,Diabetes.,4858.21,323,Antianginals,1
+M289,Capecitabine,Pain reliever.,1280.65,384,Bronchodilators,0
+M290,Captopril,Steroid.,2730.19,246,Antidiabetics,1
+M291,Carbamazepine,"Anxiety, allergy.",2673.42,139,Anxiolytics,1
+M292,Carbidopa,Antidepressant.,299.83,196,Antibiotics,1
+M293,Carisoprodol,Diuretic.,4190.44,345,Sedative-Hypnotics,0
+M294,Carvedilol,"Pain, inflammation.",2831.44,56,Antiplatelets,0
+M295,Cefdinir,Hormone replacement.,338.29,154,Gastrointestinal Medications,0
+M296,Cefprozil,Antibiotic (TB).,406.01,19,Antihistamines,1
+M297,Cefuroxime,Reduces stomach acid.,3121.39,230,Antipsychotics,0
+M298,Celecoxib,Pain reliever.,3566.26,268,Vaccines,0
+M299,Cephalexin,Iron supplement.,2544.74,21,Bone Health Medications,1
+M300,Cetirizine,Prostate.,3881.59,383,Antifungals,0
+M301,Chloramphenicol,Vitamin.,2000.08,146,Thyroid Hormones,0
+M302,Chloroquine,Osteoporosis.,4641.17,195,Urinary Medications,0
+M303,Cholecalciferol,Cholesterol.,2217.91,203,Sedative-Hypnotics,1
+M304,Cilostazol,Diabetes.,778.06,155,Herbal Remedies,1
+M305,Ciprofloxacin,Pain reliever.,1665.73,72,Diuretics,1
+M306,Citalopram,Steroid.,4565.85,187,Beta-Blockers,1
+M307,Clarithromycin,"Anxiety, allergy.",1236.22,185,Antiarrhythmics,0
+M308,Clindamycin,Antidepressant.,3138.95,140,Antiplatelets,1
+M309,Clobetasol,Diuretic.,543.05,152,Fluoroquinolones,1
+M310,Clomiphene,"Pain, inflammation.",610.89,380,Antifungals,1

@@ -1,0 +1,1001 @@
+feedback_id,order_id,user_id,rating,comments
+FB1,Ord1,U319,2,Communication about the delivery status was lacking.
+FB2,Ord2,U716,5,The website is very user-friendly and easy to navigate.
+FB3,Ord3,U466,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB4,Ord4,U217,2,The ordering process was tedious and time-consuming.
+FB5,Ord5,U292,3,"Customer service was helpful, but the response time was slow."
+FB6,Ord6,U299,3,"Delivery was late, but customer service resolved the issue."
+FB7,Ord7,U649,5,Ordering process was seamless and quick.
+FB8,Ord8,U596,4,The delivery person was courteous and professional.
+FB9,Ord9,U820,1,"Very poor service, I am not satisfied at all."
+FB10,Ord10,U638,1,I did not receive all the items I ordered.
+FB11,Ord11,U655,1,I did not receive all the items I ordered.
+FB12,Ord12,U204,1,"Delivery was late, and the medicines were not properly packaged."
+FB13,Ord13,U467,3,"Ordering process was straightforward, but some items were out of stock."
+FB14,Ord14,U543,3,"Customer service was helpful, but the response time was slow."
+FB15,Ord15,U640,4,Customer service was prompt and helpful.
+FB16,Ord16,U925,4,Customer service was prompt and helpful.
+FB17,Ord17,U811,4,The website is easy to use and navigate.
+FB18,Ord18,U602,2,Customer service was slow to respond to my queries.
+FB19,Ord19,U735,1,"The delivery was delayed, and no explanation was given."
+FB20,Ord20,U659,4,Medicines arrived in excellent condition.
+FB21,Ord21,U976,2,Overall experience was below average.
+FB22,Ord22,U713,1,There were no updates provided about the delivery status.
+FB23,Ord23,U348,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB24,Ord24,U323,4,"Overall experience was good, with minor room for improvement."
+FB25,Ord25,U729,5,I received timely updates about my delivery status.
+FB26,Ord26,U702,1,"Delivery was late, and the medicines were not properly packaged."
+FB27,Ord27,U778,3,"Ordering process was straightforward, but some items were out of stock."
+FB28,Ord28,U707,2,"Delivery was late, but at least the medicines were intact."
+FB29,Ord29,U935,2,"Medicines were out of stock, causing a delay in delivery."
+FB30,Ord30,U260,2,The delivery packaging was subpar.
+FB31,Ord31,U263,2,Overall experience was below average.
+FB32,Ord32,U851,2,Customer service was slow to respond to my queries.
+FB33,Ord33,U707,4,The website is easy to use and navigate.
+FB34,Ord34,U495,1,Medicines were damaged during delivery.
+FB35,Ord35,U593,1,There were no updates provided about the delivery status.
+FB36,Ord36,U689,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB37,Ord37,U523,2,The delivery person arrived much later than the estimated time.
+FB38,Ord38,U232,2,The delivery person arrived much later than the estimated time.
+FB39,Ord39,U393,4,"Delivery was on time, and the medicines were well-packaged."
+FB40,Ord40,U778,5,"Excellent customer service, very prompt and helpful."
+FB41,Ord41,U510,3,Communication about delivery status was adequate but could be improved.
+FB42,Ord42,U898,3,The website is functional but could use some updates for better usability.
+FB43,Ord43,U351,3,"Customer service was helpful, but the response time was slow."
+FB44,Ord44,U603,1,The delivery person was rude and unprofessional.
+FB45,Ord45,U644,1,"Very poor service, I am not satisfied at all."
+FB46,Ord46,U817,5,The delivery person was very polite and professional.
+FB47,Ord47,U998,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB48,Ord48,U595,3,The delivery person was polite and professional.
+FB49,Ord49,U226,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB50,Ord50,U818,2,The delivery packaging was subpar.
+FB51,Ord51,U872,3,"The delivery was on time, but packaging could be better."
+FB52,Ord52,U828,1,"Delivery was late, and the medicines were not properly packaged."
+FB53,Ord53,U316,5,The delivery person was very polite and professional.
+FB54,Ord54,U275,4,The delivery person was courteous and professional.
+FB55,Ord55,U602,5,The delivery person was very polite and professional.
+FB56,Ord56,U783,2,Overall experience was below average.
+FB57,Ord57,U927,2,Communication about the delivery status was lacking.
+FB58,Ord58,U955,4,"Overall experience was good, with minor room for improvement."
+FB59,Ord59,U995,5,Ordering process was seamless and quick.
+FB60,Ord60,U502,2,The delivery person arrived much later than the estimated time.
+FB61,Ord61,U848,5,"Delivery was exactly as scheduled, with great communication."
+FB62,Ord62,U414,3,Communication about delivery status was adequate but could be improved.
+FB63,Ord63,U293,3,"Overall experience was average, with room for improvement."
+FB64,Ord64,U660,5,"Delivery was exactly as scheduled, with great communication."
+FB65,Ord65,U554,5,"Delivery was exactly as scheduled, with great communication."
+FB66,Ord66,U311,5,"Excellent customer service, very prompt and helpful."
+FB67,Ord67,U250,1,There were no updates provided about the delivery status.
+FB68,Ord68,U289,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB69,Ord69,U891,4,Customer service was prompt and helpful.
+FB70,Ord70,U308,4,The delivery person was courteous and professional.
+FB71,Ord71,U434,1,There were no updates provided about the delivery status.
+FB72,Ord72,U390,1,I did not receive all the items I ordered.
+FB73,Ord73,U858,5,Medicines arrived in perfect condition and on time.
+FB74,Ord74,U428,3,"Overall experience was average, with room for improvement."
+FB75,Ord75,U699,2,The ordering process was tedious and time-consuming.
+FB76,Ord76,U476,3,The delivery person was polite and professional.
+FB77,Ord77,U767,1,I did not receive all the items I ordered.
+FB78,Ord78,U809,2,The delivery person arrived much later than the estimated time.
+FB79,Ord79,U244,2,"Delivery was late, but at least the medicines were intact."
+FB80,Ord80,U801,2,Overall experience was below average.
+FB81,Ord81,U651,3,The delivery person was polite and professional.
+FB82,Ord82,U817,4,"Overall experience was good, with minor room for improvement."
+FB83,Ord83,U265,2,"My delivery was incomplete, missing some items."
+FB84,Ord84,U704,1,Medicines were damaged during delivery.
+FB85,Ord85,U533,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB86,Ord86,U641,2,Communication about the delivery status was lacking.
+FB87,Ord87,U361,2,"My delivery was incomplete, missing some items."
+FB88,Ord88,U890,4,Medicines arrived in excellent condition.
+FB89,Ord89,U631,5,Ordering process was seamless and quick.
+FB90,Ord90,U217,3,"Ordering process was straightforward, but some items were out of stock."
+FB91,Ord91,U412,3,Communication about delivery status was adequate but could be improved.
+FB92,Ord92,U694,1,There were no updates provided about the delivery status.
+FB93,Ord93,U872,4,Updates about delivery status were timely and accurate.
+FB94,Ord94,U884,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB95,Ord95,U368,4,The website is easy to use and navigate.
+FB96,Ord96,U286,4,Medicines arrived in excellent condition.
+FB97,Ord97,U674,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB98,Ord98,U637,3,"Ordering process was straightforward, but some items were out of stock."
+FB99,Ord99,U370,3,"The delivery was on time, but packaging could be better."
+FB100,Ord100,U405,1,The delivery person was rude and unprofessional.
+FB101,Ord101,U449,4,"Delivery was on time, and the medicines were well-packaged."
+FB102,Ord102,U744,2,Overall experience was below average.
+FB103,Ord103,U811,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB104,Ord104,U227,1,"The delivery was delayed, and no explanation was given."
+FB105,Ord105,U572,1,Medicines were damaged during delivery.
+FB106,Ord106,U374,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB107,Ord107,U294,2,"My delivery was incomplete, missing some items."
+FB108,Ord108,U479,3,"Overall experience was average, with room for improvement."
+FB109,Ord109,U995,2,"Delivery was late, but at least the medicines were intact."
+FB110,Ord110,U627,5,Medicines arrived in perfect condition and on time.
+FB111,Ord111,U920,4,The website is easy to use and navigate.
+FB112,Ord112,U234,3,"Delivery was late, but customer service resolved the issue."
+FB113,Ord113,U238,4,Medicines arrived in excellent condition.
+FB114,Ord114,U263,5,Medicines arrived in perfect condition and on time.
+FB115,Ord115,U665,2,"My delivery was incomplete, missing some items."
+FB116,Ord116,U933,1,"The delivery was delayed, and no explanation was given."
+FB117,Ord117,U986,4,Ordering process was smooth and hassle-free.
+FB118,Ord118,U730,1,There were no updates provided about the delivery status.
+FB119,Ord119,U486,5,The website is very user-friendly and easy to navigate.
+FB120,Ord120,U784,1,"Delivery was late, and the medicines were not properly packaged."
+FB121,Ord121,U726,5,The website is very user-friendly and easy to navigate.
+FB122,Ord122,U324,1,"Very poor service, I am not satisfied at all."
+FB123,Ord123,U833,1,"The delivery was delayed, and no explanation was given."
+FB124,Ord124,U785,2,"Medicines were out of stock, causing a delay in delivery."
+FB125,Ord125,U604,2,The ordering process was tedious and time-consuming.
+FB126,Ord126,U336,5,The website is very user-friendly and easy to navigate.
+FB127,Ord127,U678,2,Communication about the delivery status was lacking.
+FB128,Ord128,U336,2,Customer service was slow to respond to my queries.
+FB129,Ord129,U962,3,The website is functional but could use some updates for better usability.
+FB130,Ord130,U931,3,"Delivery was late, but customer service resolved the issue."
+FB131,Ord131,U812,3,"Ordering process was straightforward, but some items were out of stock."
+FB132,Ord132,U450,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB133,Ord133,U980,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB134,Ord134,U531,4,The delivery person was courteous and professional.
+FB135,Ord135,U543,3,The website is functional but could use some updates for better usability.
+FB136,Ord136,U530,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB137,Ord137,U857,1,"The website was not user-friendly, and the ordering process was complicated."
+FB138,Ord138,U375,4,"Delivery was on time, and the medicines were well-packaged."
+FB139,Ord139,U223,5,I received timely updates about my delivery status.
+FB140,Ord140,U268,4,"Delivery was delayed slightly, but communication was clear."
+FB141,Ord141,U885,5,"Overall, an outstanding experience! Highly recommended."
+FB142,Ord142,U355,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB143,Ord143,U853,5,"Delivery was exactly as scheduled, with great communication."
+FB144,Ord144,U543,2,"Delivery was late, but at least the medicines were intact."
+FB145,Ord145,U497,2,Communication about the delivery status was lacking.
+FB146,Ord146,U541,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB147,Ord147,U421,5,The delivery person was very polite and professional.
+FB148,Ord148,U257,1,I had to call customer service multiple times to resolve issues.
+FB149,Ord149,U747,5,"Overall, an outstanding experience! Highly recommended."
+FB150,Ord150,U803,3,The website is functional but could use some updates for better usability.
+FB151,Ord151,U693,4,Customer service was prompt and helpful.
+FB152,Ord152,U769,4,"Delivery was delayed slightly, but communication was clear."
+FB153,Ord153,U203,2,The website needs improvement; it was challenging to navigate.
+FB154,Ord154,U910,1,"Very poor service, I am not satisfied at all."
+FB155,Ord155,U722,3,"Overall experience was average, with room for improvement."
+FB156,Ord156,U970,3,Communication about delivery status was adequate but could be improved.
+FB157,Ord157,U547,2,The website needs improvement; it was challenging to navigate.
+FB158,Ord158,U889,2,The delivery person arrived much later than the estimated time.
+FB159,Ord159,U731,4,The delivery person was courteous and professional.
+FB160,Ord160,U659,2,"My delivery was incomplete, missing some items."
+FB161,Ord161,U559,5,I received timely updates about my delivery status.
+FB162,Ord162,U979,2,The ordering process was tedious and time-consuming.
+FB163,Ord163,U420,1,The delivery person was rude and unprofessional.
+FB164,Ord164,U358,5,Ordering process was seamless and quick.
+FB165,Ord165,U335,5,Medicines arrived in perfect condition and on time.
+FB166,Ord166,U421,5,The delivery person was very polite and professional.
+FB167,Ord167,U219,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB168,Ord168,U457,3,"Customer service was helpful, but the response time was slow."
+FB169,Ord169,U234,3,Communication about delivery status was adequate but could be improved.
+FB170,Ord170,U993,3,"Overall experience was average, with room for improvement."
+FB171,Ord171,U535,2,The delivery person arrived much later than the estimated time.
+FB172,Ord172,U847,4,"Delivery was delayed slightly, but communication was clear."
+FB173,Ord173,U444,1,"Delivery was late, and the medicines were not properly packaged."
+FB174,Ord174,U816,2,"Delivery was late, but at least the medicines were intact."
+FB175,Ord175,U240,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB176,Ord176,U677,2,The delivery person arrived much later than the estimated time.
+FB177,Ord177,U857,5,I received timely updates about my delivery status.
+FB178,Ord178,U705,5,The delivery person was very polite and professional.
+FB179,Ord179,U435,1,I had to call customer service multiple times to resolve issues.
+FB180,Ord180,U222,5,I received timely updates about my delivery status.
+FB181,Ord181,U871,5,"Delivery was exactly as scheduled, with great communication."
+FB182,Ord182,U271,3,"The delivery was on time, but packaging could be better."
+FB183,Ord183,U773,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB184,Ord184,U805,4,The delivery person was courteous and professional.
+FB185,Ord185,U420,2,The website needs improvement; it was challenging to navigate.
+FB186,Ord186,U949,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB187,Ord187,U788,1,Medicines were damaged during delivery.
+FB188,Ord188,U638,1,"Very poor service, I am not satisfied at all."
+FB189,Ord189,U752,2,The delivery person arrived much later than the estimated time.
+FB190,Ord190,U378,4,The website is easy to use and navigate.
+FB191,Ord191,U673,5,Ordering process was seamless and quick.
+FB192,Ord192,U762,2,"Medicines were out of stock, causing a delay in delivery."
+FB193,Ord193,U821,2,"Medicines were out of stock, causing a delay in delivery."
+FB194,Ord194,U787,5,"Delivery was exactly as scheduled, with great communication."
+FB195,Ord195,U589,4,The delivery person was courteous and professional.
+FB196,Ord196,U756,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB197,Ord197,U616,4,"Overall experience was good, with minor room for improvement."
+FB198,Ord198,U533,1,The wrong medicines were delivered to me.
+FB199,Ord199,U481,5,"Overall, an outstanding experience! Highly recommended."
+FB200,Ord200,U533,1,"Delivery was late, and the medicines were not properly packaged."
+FB201,Ord201,U834,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB202,Ord202,U223,2,The delivery person arrived much later than the estimated time.
+FB203,Ord203,U638,4,The delivery person was courteous and professional.
+FB204,Ord204,U997,4,"Delivery was delayed slightly, but communication was clear."
+FB205,Ord205,U586,3,The delivery person was polite and professional.
+FB206,Ord206,U635,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB207,Ord207,U835,5,"Excellent customer service, very prompt and helpful."
+FB208,Ord208,U642,3,The website is functional but could use some updates for better usability.
+FB209,Ord209,U317,5,The website is very user-friendly and easy to navigate.
+FB210,Ord210,U748,1,"The website was not user-friendly, and the ordering process was complicated."
+FB211,Ord211,U880,5,"Excellent customer service, very prompt and helpful."
+FB212,Ord212,U625,3,"Customer service was helpful, but the response time was slow."
+FB213,Ord213,U597,4,Customer service was prompt and helpful.
+FB214,Ord214,U464,5,Medicines arrived in perfect condition and on time.
+FB215,Ord215,U590,5,Medicines were delivered accurately and securely.
+FB216,Ord216,U426,5,Ordering process was seamless and quick.
+FB217,Ord217,U793,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB218,Ord218,U893,2,The delivery person arrived much later than the estimated time.
+FB219,Ord219,U375,1,"Very poor service, I am not satisfied at all."
+FB220,Ord220,U467,2,The ordering process was tedious and time-consuming.
+FB221,Ord221,U434,1,"The website was not user-friendly, and the ordering process was complicated."
+FB222,Ord222,U251,3,"Customer service was helpful, but the response time was slow."
+FB223,Ord223,U615,3,The website is functional but could use some updates for better usability.
+FB224,Ord224,U549,1,I had to call customer service multiple times to resolve issues.
+FB225,Ord225,U297,1,Medicines were damaged during delivery.
+FB226,Ord226,U759,2,"Medicines were out of stock, causing a delay in delivery."
+FB227,Ord227,U844,5,I received timely updates about my delivery status.
+FB228,Ord228,U338,3,"Customer service was helpful, but the response time was slow."
+FB229,Ord229,U892,4,Updates about delivery status were timely and accurate.
+FB230,Ord230,U260,4,Medicines arrived in excellent condition.
+FB231,Ord231,U711,5,I received timely updates about my delivery status.
+FB232,Ord232,U739,3,"Overall experience was average, with room for improvement."
+FB233,Ord233,U448,1,Medicines were damaged during delivery.
+FB234,Ord234,U419,4,"Overall experience was good, with minor room for improvement."
+FB235,Ord235,U202,4,"Delivery was delayed slightly, but communication was clear."
+FB236,Ord236,U753,4,Medicines arrived in excellent condition.
+FB237,Ord237,U664,3,"Ordering process was straightforward, but some items were out of stock."
+FB238,Ord238,U969,2,The website needs improvement; it was challenging to navigate.
+FB239,Ord239,U447,1,There were no updates provided about the delivery status.
+FB240,Ord240,U687,5,"Delivery was exactly as scheduled, with great communication."
+FB241,Ord241,U896,4,The delivery person was courteous and professional.
+FB242,Ord242,U650,1,"Delivery was late, and the medicines were not properly packaged."
+FB243,Ord243,U397,2,The website needs improvement; it was challenging to navigate.
+FB244,Ord244,U303,4,Updates about delivery status were timely and accurate.
+FB245,Ord245,U270,2,The website needs improvement; it was challenging to navigate.
+FB246,Ord246,U714,4,"Delivery was on time, and the medicines were well-packaged."
+FB247,Ord247,U821,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB248,Ord248,U947,3,"Ordering process was straightforward, but some items were out of stock."
+FB249,Ord249,U646,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB250,Ord250,U235,2,"My delivery was incomplete, missing some items."
+FB251,Ord251,U270,2,The delivery person arrived much later than the estimated time.
+FB252,Ord252,U458,5,Medicines arrived in perfect condition and on time.
+FB253,Ord253,U913,1,I had to call customer service multiple times to resolve issues.
+FB254,Ord254,U778,3,"The delivery was on time, but packaging could be better."
+FB255,Ord255,U894,4,Medicines arrived in excellent condition.
+FB256,Ord256,U560,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB257,Ord257,U264,2,"Delivery was late, but at least the medicines were intact."
+FB258,Ord258,U351,1,I had to call customer service multiple times to resolve issues.
+FB259,Ord259,U362,2,"Delivery was late, but at least the medicines were intact."
+FB260,Ord260,U329,3,"Overall experience was average, with room for improvement."
+FB261,Ord261,U799,1,"The website was not user-friendly, and the ordering process was complicated."
+FB262,Ord262,U760,4,The website is easy to use and navigate.
+FB263,Ord263,U728,4,The website is easy to use and navigate.
+FB264,Ord264,U438,1,The delivery person was rude and unprofessional.
+FB265,Ord265,U646,5,The website is very user-friendly and easy to navigate.
+FB266,Ord266,U371,2,"Medicines were out of stock, causing a delay in delivery."
+FB267,Ord267,U877,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB268,Ord268,U683,4,"Delivery was on time, and the medicines were well-packaged."
+FB269,Ord269,U704,1,"Delivery was late, and the medicines were not properly packaged."
+FB270,Ord270,U571,5,Medicines arrived in perfect condition and on time.
+FB271,Ord271,U732,2,"Medicines were out of stock, causing a delay in delivery."
+FB272,Ord272,U747,1,"The website was not user-friendly, and the ordering process was complicated."
+FB273,Ord273,U548,4,Customer service was prompt and helpful.
+FB274,Ord274,U418,4,"Delivery was on time, and the medicines were well-packaged."
+FB275,Ord275,U513,1,"Very poor service, I am not satisfied at all."
+FB276,Ord276,U812,4,The delivery person was courteous and professional.
+FB277,Ord277,U786,4,"Delivery was on time, and the medicines were well-packaged."
+FB278,Ord278,U518,4,"Overall experience was good, with minor room for improvement."
+FB279,Ord279,U483,4,"Delivery was on time, and the medicines were well-packaged."
+FB280,Ord280,U322,1,"The website was not user-friendly, and the ordering process was complicated."
+FB281,Ord281,U812,5,Medicines were delivered accurately and securely.
+FB282,Ord282,U877,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB283,Ord283,U722,4,"Delivery was delayed slightly, but communication was clear."
+FB284,Ord284,U529,5,"Overall, an outstanding experience! Highly recommended."
+FB285,Ord285,U833,3,"The delivery was on time, but packaging could be better."
+FB286,Ord286,U947,5,The delivery person was very polite and professional.
+FB287,Ord287,U370,5,Medicines were delivered accurately and securely.
+FB288,Ord288,U897,1,"The website was not user-friendly, and the ordering process was complicated."
+FB289,Ord289,U1000,4,Customer service was prompt and helpful.
+FB290,Ord290,U659,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB291,Ord291,U549,2,Customer service was slow to respond to my queries.
+FB292,Ord292,U559,5,Ordering process was seamless and quick.
+FB293,Ord293,U504,1,"Very poor service, I am not satisfied at all."
+FB294,Ord294,U394,1,I had to call customer service multiple times to resolve issues.
+FB295,Ord295,U618,4,"Overall experience was good, with minor room for improvement."
+FB296,Ord296,U457,1,"The delivery was delayed, and no explanation was given."
+FB297,Ord297,U893,1,"Very poor service, I am not satisfied at all."
+FB298,Ord298,U214,5,Medicines were delivered accurately and securely.
+FB299,Ord299,U491,3,Communication about delivery status was adequate but could be improved.
+FB300,Ord300,U514,5,"Overall, an outstanding experience! Highly recommended."
+FB301,Ord301,U542,2,Customer service was slow to respond to my queries.
+FB302,Ord302,U257,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB303,Ord303,U601,4,Ordering process was smooth and hassle-free.
+FB304,Ord304,U384,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB305,Ord305,U623,2,"Delivery was late, but at least the medicines were intact."
+FB306,Ord306,U232,2,Customer service was slow to respond to my queries.
+FB307,Ord307,U656,1,The delivery person was rude and unprofessional.
+FB308,Ord308,U325,4,Ordering process was smooth and hassle-free.
+FB309,Ord309,U702,1,The wrong medicines were delivered to me.
+FB310,Ord310,U621,1,"Delivery was late, and the medicines were not properly packaged."
+FB311,Ord311,U222,2,The ordering process was tedious and time-consuming.
+FB312,Ord312,U838,4,Updates about delivery status were timely and accurate.
+FB313,Ord313,U944,1,"Very poor service, I am not satisfied at all."
+FB314,Ord314,U492,4,"Delivery was on time, and the medicines were well-packaged."
+FB315,Ord315,U453,5,Ordering process was seamless and quick.
+FB316,Ord316,U992,3,"The delivery was on time, but packaging could be better."
+FB317,Ord317,U927,1,The delivery person was rude and unprofessional.
+FB318,Ord318,U858,2,The website needs improvement; it was challenging to navigate.
+FB319,Ord319,U897,3,Communication about delivery status was adequate but could be improved.
+FB320,Ord320,U591,2,The website needs improvement; it was challenging to navigate.
+FB321,Ord321,U715,4,The delivery person was courteous and professional.
+FB322,Ord322,U274,2,"Delivery was late, but at least the medicines were intact."
+FB323,Ord323,U540,5,Ordering process was seamless and quick.
+FB324,Ord324,U985,2,The delivery person arrived much later than the estimated time.
+FB325,Ord325,U586,5,I received timely updates about my delivery status.
+FB326,Ord326,U395,2,Overall experience was below average.
+FB327,Ord327,U589,1,"Very poor service, I am not satisfied at all."
+FB328,Ord328,U773,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB329,Ord329,U853,5,I received timely updates about my delivery status.
+FB330,Ord330,U978,4,The website is easy to use and navigate.
+FB331,Ord331,U323,3,"Customer service was helpful, but the response time was slow."
+FB332,Ord332,U397,5,Medicines arrived in perfect condition and on time.
+FB333,Ord333,U766,1,Medicines were damaged during delivery.
+FB334,Ord334,U405,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB335,Ord335,U543,2,"My delivery was incomplete, missing some items."
+FB336,Ord336,U882,3,The delivery person was polite and professional.
+FB337,Ord337,U496,4,"Delivery was on time, and the medicines were well-packaged."
+FB338,Ord338,U870,2,Overall experience was below average.
+FB339,Ord339,U297,1,The delivery person was rude and unprofessional.
+FB340,Ord340,U208,5,The website is very user-friendly and easy to navigate.
+FB341,Ord341,U581,3,"Overall experience was average, with room for improvement."
+FB342,Ord342,U677,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB343,Ord343,U327,2,Overall experience was below average.
+FB344,Ord344,U468,2,"Delivery was late, but at least the medicines were intact."
+FB345,Ord345,U436,3,The website is functional but could use some updates for better usability.
+FB346,Ord346,U278,2,"Delivery was late, but at least the medicines were intact."
+FB347,Ord347,U785,2,"Delivery was late, but at least the medicines were intact."
+FB348,Ord348,U469,5,Medicines were delivered accurately and securely.
+FB349,Ord349,U831,2,Overall experience was below average.
+FB350,Ord350,U284,3,Communication about delivery status was adequate but could be improved.
+FB351,Ord351,U341,2,The website needs improvement; it was challenging to navigate.
+FB352,Ord352,U212,1,"The website was not user-friendly, and the ordering process was complicated."
+FB353,Ord353,U384,3,"Overall experience was average, with room for improvement."
+FB354,Ord354,U513,2,"My delivery was incomplete, missing some items."
+FB355,Ord355,U960,3,"Ordering process was straightforward, but some items were out of stock."
+FB356,Ord356,U689,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB357,Ord357,U486,1,"The website was not user-friendly, and the ordering process was complicated."
+FB358,Ord358,U675,1,"The delivery was delayed, and no explanation was given."
+FB359,Ord359,U218,5,Ordering process was seamless and quick.
+FB360,Ord360,U732,3,The website is functional but could use some updates for better usability.
+FB361,Ord361,U690,1,I had to call customer service multiple times to resolve issues.
+FB362,Ord362,U688,5,Medicines were delivered accurately and securely.
+FB363,Ord363,U534,5,"Delivery was exactly as scheduled, with great communication."
+FB364,Ord364,U896,3,"Customer service was helpful, but the response time was slow."
+FB365,Ord365,U548,2,Communication about the delivery status was lacking.
+FB366,Ord366,U567,2,"Medicines were out of stock, causing a delay in delivery."
+FB367,Ord367,U546,2,"Delivery was late, but at least the medicines were intact."
+FB368,Ord368,U665,4,"Delivery was on time, and the medicines were well-packaged."
+FB369,Ord369,U225,3,The website is functional but could use some updates for better usability.
+FB370,Ord370,U336,3,The website is functional but could use some updates for better usability.
+FB371,Ord371,U614,5,The website is very user-friendly and easy to navigate.
+FB372,Ord372,U390,3,"Customer service was helpful, but the response time was slow."
+FB373,Ord373,U680,4,Medicines arrived in excellent condition.
+FB374,Ord374,U821,5,Medicines were delivered accurately and securely.
+FB375,Ord375,U759,4,"Delivery was delayed slightly, but communication was clear."
+FB376,Ord376,U637,5,I received timely updates about my delivery status.
+FB377,Ord377,U381,2,The delivery packaging was subpar.
+FB378,Ord378,U896,5,"Delivery was exactly as scheduled, with great communication."
+FB379,Ord379,U403,4,Ordering process was smooth and hassle-free.
+FB380,Ord380,U727,2,"Medicines were out of stock, causing a delay in delivery."
+FB381,Ord381,U635,2,Customer service was slow to respond to my queries.
+FB382,Ord382,U578,2,Customer service was slow to respond to my queries.
+FB383,Ord383,U500,2,The delivery person arrived much later than the estimated time.
+FB384,Ord384,U807,4,"Overall experience was good, with minor room for improvement."
+FB385,Ord385,U760,3,The website is functional but could use some updates for better usability.
+FB386,Ord386,U253,1,I had to call customer service multiple times to resolve issues.
+FB387,Ord387,U752,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB388,Ord388,U620,3,"Ordering process was straightforward, but some items were out of stock."
+FB389,Ord389,U379,5,"Overall, an outstanding experience! Highly recommended."
+FB390,Ord390,U743,1,The delivery person was rude and unprofessional.
+FB391,Ord391,U307,3,"Ordering process was straightforward, but some items were out of stock."
+FB392,Ord392,U823,5,"Delivery was exactly as scheduled, with great communication."
+FB393,Ord393,U900,5,"Delivery was exactly as scheduled, with great communication."
+FB394,Ord394,U798,4,"Delivery was delayed slightly, but communication was clear."
+FB395,Ord395,U382,5,The delivery person was very polite and professional.
+FB396,Ord396,U692,1,"The website was not user-friendly, and the ordering process was complicated."
+FB397,Ord397,U640,2,The ordering process was tedious and time-consuming.
+FB398,Ord398,U787,4,"Overall experience was good, with minor room for improvement."
+FB399,Ord399,U435,1,"The delivery was delayed, and no explanation was given."
+FB400,Ord400,U823,5,Medicines arrived in perfect condition and on time.
+FB401,Ord401,U373,1,"The website was not user-friendly, and the ordering process was complicated."
+FB402,Ord402,U703,4,Ordering process was smooth and hassle-free.
+FB403,Ord403,U346,1,Medicines were damaged during delivery.
+FB404,Ord404,U629,5,I received timely updates about my delivery status.
+FB405,Ord405,U891,5,The delivery person was very polite and professional.
+FB406,Ord406,U711,4,The website is easy to use and navigate.
+FB407,Ord407,U614,2,The delivery person arrived much later than the estimated time.
+FB408,Ord408,U301,4,The delivery person was courteous and professional.
+FB409,Ord409,U242,2,The delivery person arrived much later than the estimated time.
+FB410,Ord410,U270,1,The wrong medicines were delivered to me.
+FB411,Ord411,U789,4,Medicines arrived in excellent condition.
+FB412,Ord412,U660,2,Communication about the delivery status was lacking.
+FB413,Ord413,U741,1,"The delivery was delayed, and no explanation was given."
+FB414,Ord414,U578,4,Medicines arrived in excellent condition.
+FB415,Ord415,U289,4,"Delivery was on time, and the medicines were well-packaged."
+FB416,Ord416,U760,5,"Excellent customer service, very prompt and helpful."
+FB417,Ord417,U286,3,"Overall experience was average, with room for improvement."
+FB418,Ord418,U243,1,Medicines were damaged during delivery.
+FB419,Ord419,U785,3,"Ordering process was straightforward, but some items were out of stock."
+FB420,Ord420,U649,3,"The delivery was on time, but packaging could be better."
+FB421,Ord421,U737,4,"Delivery was on time, and the medicines were well-packaged."
+FB422,Ord422,U750,4,Medicines arrived in excellent condition.
+FB423,Ord423,U745,4,Updates about delivery status were timely and accurate.
+FB424,Ord424,U657,2,The ordering process was tedious and time-consuming.
+FB425,Ord425,U680,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB426,Ord426,U418,2,Overall experience was below average.
+FB427,Ord427,U567,5,I received timely updates about my delivery status.
+FB428,Ord428,U567,5,"Excellent customer service, very prompt and helpful."
+FB429,Ord429,U202,5,The delivery person was very polite and professional.
+FB430,Ord430,U296,3,Communication about delivery status was adequate but could be improved.
+FB431,Ord431,U532,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB432,Ord432,U416,5,The website is very user-friendly and easy to navigate.
+FB433,Ord433,U456,1,I had to call customer service multiple times to resolve issues.
+FB434,Ord434,U615,1,The delivery person was rude and unprofessional.
+FB435,Ord435,U958,5,"Overall, an outstanding experience! Highly recommended."
+FB436,Ord436,U652,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB437,Ord437,U205,4,Medicines arrived in excellent condition.
+FB438,Ord438,U690,1,The delivery person was rude and unprofessional.
+FB439,Ord439,U541,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB440,Ord440,U337,4,Updates about delivery status were timely and accurate.
+FB441,Ord441,U612,5,I received timely updates about my delivery status.
+FB442,Ord442,U963,1,Medicines were damaged during delivery.
+FB443,Ord443,U592,1,There were no updates provided about the delivery status.
+FB444,Ord444,U757,4,"Delivery was on time, and the medicines were well-packaged."
+FB445,Ord445,U714,3,The delivery person was polite and professional.
+FB446,Ord446,U705,2,"Delivery was late, but at least the medicines were intact."
+FB447,Ord447,U845,2,The delivery packaging was subpar.
+FB448,Ord448,U929,5,Ordering process was seamless and quick.
+FB449,Ord449,U989,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB450,Ord450,U876,5,Medicines were delivered accurately and securely.
+FB451,Ord451,U482,1,"The delivery was delayed, and no explanation was given."
+FB452,Ord452,U444,5,The website is very user-friendly and easy to navigate.
+FB453,Ord453,U255,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB454,Ord454,U856,1,"Delivery was late, and the medicines were not properly packaged."
+FB455,Ord455,U646,1,There were no updates provided about the delivery status.
+FB456,Ord456,U340,1,"The delivery was delayed, and no explanation was given."
+FB457,Ord457,U541,5,The website is very user-friendly and easy to navigate.
+FB458,Ord458,U936,2,The website needs improvement; it was challenging to navigate.
+FB459,Ord459,U995,4,Medicines arrived in excellent condition.
+FB460,Ord460,U419,2,"Delivery was late, but at least the medicines were intact."
+FB461,Ord461,U421,5,The website is very user-friendly and easy to navigate.
+FB462,Ord462,U899,2,Customer service was slow to respond to my queries.
+FB463,Ord463,U335,2,The website needs improvement; it was challenging to navigate.
+FB464,Ord464,U239,3,The website is functional but could use some updates for better usability.
+FB465,Ord465,U780,3,The website is functional but could use some updates for better usability.
+FB466,Ord466,U243,5,Medicines were delivered accurately and securely.
+FB467,Ord467,U653,2,The ordering process was tedious and time-consuming.
+FB468,Ord468,U603,1,"Very poor service, I am not satisfied at all."
+FB469,Ord469,U449,2,The website needs improvement; it was challenging to navigate.
+FB470,Ord470,U654,1,Medicines were damaged during delivery.
+FB471,Ord471,U250,5,"Delivery was exactly as scheduled, with great communication."
+FB472,Ord472,U283,1,Medicines were damaged during delivery.
+FB473,Ord473,U334,4,Customer service was prompt and helpful.
+FB474,Ord474,U897,1,"The website was not user-friendly, and the ordering process was complicated."
+FB475,Ord475,U310,2,"My delivery was incomplete, missing some items."
+FB476,Ord476,U973,1,Medicines were damaged during delivery.
+FB477,Ord477,U252,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB478,Ord478,U655,1,"The website was not user-friendly, and the ordering process was complicated."
+FB479,Ord479,U796,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB480,Ord480,U584,1,Medicines were damaged during delivery.
+FB481,Ord481,U952,2,The delivery packaging was subpar.
+FB482,Ord482,U751,5,The website is very user-friendly and easy to navigate.
+FB483,Ord483,U565,3,"Overall experience was average, with room for improvement."
+FB484,Ord484,U297,4,The website is easy to use and navigate.
+FB485,Ord485,U329,5,"Delivery was exactly as scheduled, with great communication."
+FB486,Ord486,U845,4,"Delivery was delayed slightly, but communication was clear."
+FB487,Ord487,U246,4,"Delivery was delayed slightly, but communication was clear."
+FB488,Ord488,U239,5,I received timely updates about my delivery status.
+FB489,Ord489,U719,1,"Delivery was late, and the medicines were not properly packaged."
+FB490,Ord490,U393,5,I received timely updates about my delivery status.
+FB491,Ord491,U714,5,Medicines arrived in perfect condition and on time.
+FB492,Ord492,U318,2,"My delivery was incomplete, missing some items."
+FB493,Ord493,U374,2,The delivery packaging was subpar.
+FB494,Ord494,U502,3,"The delivery was on time, but packaging could be better."
+FB495,Ord495,U924,1,"Delivery was late, and the medicines were not properly packaged."
+FB496,Ord496,U951,1,Medicines were damaged during delivery.
+FB497,Ord497,U264,1,"The website was not user-friendly, and the ordering process was complicated."
+FB498,Ord498,U667,3,The website is functional but could use some updates for better usability.
+FB499,Ord499,U513,2,The delivery person arrived much later than the estimated time.
+FB500,Ord500,U606,3,"Ordering process was straightforward, but some items were out of stock."
+FB501,Ord501,U292,1,Medicines were damaged during delivery.
+FB502,Ord502,U655,4,Medicines arrived in excellent condition.
+FB503,Ord503,U818,5,I received timely updates about my delivery status.
+FB504,Ord504,U504,1,The delivery person was rude and unprofessional.
+FB505,Ord505,U683,5,"Overall, an outstanding experience! Highly recommended."
+FB506,Ord506,U464,5,I received timely updates about my delivery status.
+FB507,Ord507,U224,5,I received timely updates about my delivery status.
+FB508,Ord508,U203,4,"Delivery was delayed slightly, but communication was clear."
+FB509,Ord509,U845,5,"Excellent customer service, very prompt and helpful."
+FB510,Ord510,U223,4,"Delivery was delayed slightly, but communication was clear."
+FB511,Ord511,U564,3,"Delivery was late, but customer service resolved the issue."
+FB512,Ord512,U596,1,The wrong medicines were delivered to me.
+FB513,Ord513,U862,2,The website needs improvement; it was challenging to navigate.
+FB514,Ord514,U691,3,"Ordering process was straightforward, but some items were out of stock."
+FB515,Ord515,U773,4,"Overall experience was good, with minor room for improvement."
+FB516,Ord516,U926,4,Updates about delivery status were timely and accurate.
+FB517,Ord517,U408,1,I had to call customer service multiple times to resolve issues.
+FB518,Ord518,U321,3,"Delivery was late, but customer service resolved the issue."
+FB519,Ord519,U780,5,The delivery person was very polite and professional.
+FB520,Ord520,U712,5,Ordering process was seamless and quick.
+FB521,Ord521,U746,4,The website is easy to use and navigate.
+FB522,Ord522,U612,4,Ordering process was smooth and hassle-free.
+FB523,Ord523,U642,2,"Delivery was late, but at least the medicines were intact."
+FB524,Ord524,U856,2,Communication about the delivery status was lacking.
+FB525,Ord525,U476,2,Communication about the delivery status was lacking.
+FB526,Ord526,U706,4,"Overall experience was good, with minor room for improvement."
+FB527,Ord527,U483,3,Communication about delivery status was adequate but could be improved.
+FB528,Ord528,U803,5,Medicines were delivered accurately and securely.
+FB529,Ord529,U493,4,"Delivery was on time, and the medicines were well-packaged."
+FB530,Ord530,U821,5,"Excellent customer service, very prompt and helpful."
+FB531,Ord531,U254,4,"Overall experience was good, with minor room for improvement."
+FB532,Ord532,U801,3,The delivery person was polite and professional.
+FB533,Ord533,U688,5,"Overall, an outstanding experience! Highly recommended."
+FB534,Ord534,U333,5,"Delivery was exactly as scheduled, with great communication."
+FB535,Ord535,U220,2,The ordering process was tedious and time-consuming.
+FB536,Ord536,U487,3,"Overall experience was average, with room for improvement."
+FB537,Ord537,U672,3,Communication about delivery status was adequate but could be improved.
+FB538,Ord538,U679,3,"The delivery was on time, but packaging could be better."
+FB539,Ord539,U346,1,The delivery person was rude and unprofessional.
+FB540,Ord540,U704,4,"Delivery was delayed slightly, but communication was clear."
+FB541,Ord541,U297,3,"Ordering process was straightforward, but some items were out of stock."
+FB542,Ord542,U262,4,The website is easy to use and navigate.
+FB543,Ord543,U726,4,Ordering process was smooth and hassle-free.
+FB544,Ord544,U908,3,"Overall experience was average, with room for improvement."
+FB545,Ord545,U236,5,The delivery person was very polite and professional.
+FB546,Ord546,U808,2,Communication about the delivery status was lacking.
+FB547,Ord547,U585,1,"Delivery was late, and the medicines were not properly packaged."
+FB548,Ord548,U963,5,Medicines arrived in perfect condition and on time.
+FB549,Ord549,U833,2,The ordering process was tedious and time-consuming.
+FB550,Ord550,U230,4,"Delivery was on time, and the medicines were well-packaged."
+FB551,Ord551,U724,3,"Overall experience was average, with room for improvement."
+FB552,Ord552,U416,2,"Medicines were out of stock, causing a delay in delivery."
+FB553,Ord553,U367,5,Ordering process was seamless and quick.
+FB554,Ord554,U288,3,Communication about delivery status was adequate but could be improved.
+FB555,Ord555,U256,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB556,Ord556,U830,5,The delivery person was very polite and professional.
+FB557,Ord557,U978,1,"The website was not user-friendly, and the ordering process was complicated."
+FB558,Ord558,U883,3,"Ordering process was straightforward, but some items were out of stock."
+FB559,Ord559,U433,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB560,Ord560,U662,1,The wrong medicines were delivered to me.
+FB561,Ord561,U654,2,The website needs improvement; it was challenging to navigate.
+FB562,Ord562,U525,3,"Ordering process was straightforward, but some items were out of stock."
+FB563,Ord563,U930,4,"Overall experience was good, with minor room for improvement."
+FB564,Ord564,U732,5,The delivery person was very polite and professional.
+FB565,Ord565,U799,1,"Delivery was late, and the medicines were not properly packaged."
+FB566,Ord566,U266,1,"Delivery was late, and the medicines were not properly packaged."
+FB567,Ord567,U343,3,The delivery person was polite and professional.
+FB568,Ord568,U994,2,Customer service was slow to respond to my queries.
+FB569,Ord569,U589,2,The ordering process was tedious and time-consuming.
+FB570,Ord570,U686,5,The delivery person was very polite and professional.
+FB571,Ord571,U870,4,The website is easy to use and navigate.
+FB572,Ord572,U212,1,"The website was not user-friendly, and the ordering process was complicated."
+FB573,Ord573,U215,2,The delivery person arrived much later than the estimated time.
+FB574,Ord574,U985,1,There were no updates provided about the delivery status.
+FB575,Ord575,U217,4,"Delivery was on time, and the medicines were well-packaged."
+FB576,Ord576,U351,1,"The delivery was delayed, and no explanation was given."
+FB577,Ord577,U668,2,The delivery packaging was subpar.
+FB578,Ord578,U516,5,"Delivery was exactly as scheduled, with great communication."
+FB579,Ord579,U299,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB580,Ord580,U898,2,The delivery packaging was subpar.
+FB581,Ord581,U465,4,The delivery person was courteous and professional.
+FB582,Ord582,U683,1,"The delivery was delayed, and no explanation was given."
+FB583,Ord583,U405,2,"Medicines were out of stock, causing a delay in delivery."
+FB584,Ord584,U824,4,Updates about delivery status were timely and accurate.
+FB585,Ord585,U849,3,"The delivery was on time, but packaging could be better."
+FB586,Ord586,U227,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB587,Ord587,U935,4,"Delivery was delayed slightly, but communication was clear."
+FB588,Ord588,U585,5,I received timely updates about my delivery status.
+FB589,Ord589,U260,3,The delivery person was polite and professional.
+FB590,Ord590,U987,2,The delivery packaging was subpar.
+FB591,Ord591,U787,2,The ordering process was tedious and time-consuming.
+FB592,Ord592,U876,5,I received timely updates about my delivery status.
+FB593,Ord593,U756,2,Overall experience was below average.
+FB594,Ord594,U444,4,"Delivery was delayed slightly, but communication was clear."
+FB595,Ord595,U508,5,"Delivery was exactly as scheduled, with great communication."
+FB596,Ord596,U805,2,Customer service was slow to respond to my queries.
+FB597,Ord597,U730,2,Overall experience was below average.
+FB598,Ord598,U767,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB599,Ord599,U822,3,"Ordering process was straightforward, but some items were out of stock."
+FB600,Ord600,U432,3,The delivery person was polite and professional.
+FB601,Ord601,U282,2,The delivery packaging was subpar.
+FB602,Ord602,U299,1,The wrong medicines were delivered to me.
+FB603,Ord603,U630,2,"Medicines were out of stock, causing a delay in delivery."
+FB604,Ord604,U757,1,I did not receive all the items I ordered.
+FB605,Ord605,U809,1,I had to call customer service multiple times to resolve issues.
+FB606,Ord606,U463,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB607,Ord607,U350,2,The delivery person arrived much later than the estimated time.
+FB608,Ord608,U223,2,The delivery packaging was subpar.
+FB609,Ord609,U421,2,The ordering process was tedious and time-consuming.
+FB610,Ord610,U322,4,The delivery person was courteous and professional.
+FB611,Ord611,U794,2,The delivery packaging was subpar.
+FB612,Ord612,U344,3,"The delivery was on time, but packaging could be better."
+FB613,Ord613,U751,2,Communication about the delivery status was lacking.
+FB614,Ord614,U639,1,The wrong medicines were delivered to me.
+FB615,Ord615,U255,5,"Overall, an outstanding experience! Highly recommended."
+FB616,Ord616,U870,4,Customer service was prompt and helpful.
+FB617,Ord617,U257,3,"Customer service was helpful, but the response time was slow."
+FB618,Ord618,U942,2,Overall experience was below average.
+FB619,Ord619,U626,1,Medicines were damaged during delivery.
+FB620,Ord620,U281,3,The delivery person was polite and professional.
+FB621,Ord621,U282,5,Medicines arrived in perfect condition and on time.
+FB622,Ord622,U809,2,The website needs improvement; it was challenging to navigate.
+FB623,Ord623,U697,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB624,Ord624,U775,1,The delivery person was rude and unprofessional.
+FB625,Ord625,U782,5,The website is very user-friendly and easy to navigate.
+FB626,Ord626,U755,4,"Delivery was delayed slightly, but communication was clear."
+FB627,Ord627,U365,4,Updates about delivery status were timely and accurate.
+FB628,Ord628,U249,5,"Delivery was exactly as scheduled, with great communication."
+FB629,Ord629,U676,3,"Customer service was helpful, but the response time was slow."
+FB630,Ord630,U601,1,The delivery person was rude and unprofessional.
+FB631,Ord631,U462,4,Medicines arrived in excellent condition.
+FB632,Ord632,U599,3,"Customer service was helpful, but the response time was slow."
+FB633,Ord633,U908,1,I had to call customer service multiple times to resolve issues.
+FB634,Ord634,U672,5,Ordering process was seamless and quick.
+FB635,Ord635,U804,2,Customer service was slow to respond to my queries.
+FB636,Ord636,U302,5,I received timely updates about my delivery status.
+FB637,Ord637,U221,1,There were no updates provided about the delivery status.
+FB638,Ord638,U213,4,"Overall experience was good, with minor room for improvement."
+FB639,Ord639,U973,2,Communication about the delivery status was lacking.
+FB640,Ord640,U958,2,The delivery person arrived much later than the estimated time.
+FB641,Ord641,U567,4,Ordering process was smooth and hassle-free.
+FB642,Ord642,U227,3,Communication about delivery status was adequate but could be improved.
+FB643,Ord643,U811,5,"Excellent customer service, very prompt and helpful."
+FB644,Ord644,U965,2,"Delivery was late, but at least the medicines were intact."
+FB645,Ord645,U697,5,Ordering process was seamless and quick.
+FB646,Ord646,U248,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB647,Ord647,U409,2,Customer service was slow to respond to my queries.
+FB648,Ord648,U331,4,Updates about delivery status were timely and accurate.
+FB649,Ord649,U870,1,"Delivery was late, and the medicines were not properly packaged."
+FB650,Ord650,U394,1,"The website was not user-friendly, and the ordering process was complicated."
+FB651,Ord651,U953,1,"The delivery was delayed, and no explanation was given."
+FB652,Ord652,U223,4,Medicines arrived in excellent condition.
+FB653,Ord653,U614,3,"The delivery was on time, but packaging could be better."
+FB654,Ord654,U680,4,Updates about delivery status were timely and accurate.
+FB655,Ord655,U416,5,The website is very user-friendly and easy to navigate.
+FB656,Ord656,U762,1,Medicines were damaged during delivery.
+FB657,Ord657,U281,2,The delivery packaging was subpar.
+FB658,Ord658,U917,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB659,Ord659,U833,5,Medicines arrived in perfect condition and on time.
+FB660,Ord660,U505,5,"Overall, an outstanding experience! Highly recommended."
+FB661,Ord661,U892,5,Medicines were delivered accurately and securely.
+FB662,Ord662,U462,1,"Very poor service, I am not satisfied at all."
+FB663,Ord663,U701,2,The delivery person arrived much later than the estimated time.
+FB664,Ord664,U516,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB665,Ord665,U465,2,Customer service was slow to respond to my queries.
+FB666,Ord666,U763,3,"Customer service was helpful, but the response time was slow."
+FB667,Ord667,U686,1,"Delivery was late, and the medicines were not properly packaged."
+FB668,Ord668,U288,3,Communication about delivery status was adequate but could be improved.
+FB669,Ord669,U677,2,Customer service was slow to respond to my queries.
+FB670,Ord670,U567,3,"Customer service was helpful, but the response time was slow."
+FB671,Ord671,U918,1,"The delivery was delayed, and no explanation was given."
+FB672,Ord672,U668,1,There were no updates provided about the delivery status.
+FB673,Ord673,U895,5,The website is very user-friendly and easy to navigate.
+FB674,Ord674,U864,4,"Delivery was on time, and the medicines were well-packaged."
+FB675,Ord675,U595,2,"My delivery was incomplete, missing some items."
+FB676,Ord676,U298,3,"Delivery was late, but customer service resolved the issue."
+FB677,Ord677,U246,5,The website is very user-friendly and easy to navigate.
+FB678,Ord678,U415,4,"Overall experience was good, with minor room for improvement."
+FB679,Ord679,U329,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB680,Ord680,U428,2,"Delivery was late, but at least the medicines were intact."
+FB681,Ord681,U780,4,The delivery person was courteous and professional.
+FB682,Ord682,U874,3,"Delivery was late, but customer service resolved the issue."
+FB683,Ord683,U303,3,"Ordering process was straightforward, but some items were out of stock."
+FB684,Ord684,U709,4,The website is easy to use and navigate.
+FB685,Ord685,U446,1,I did not receive all the items I ordered.
+FB686,Ord686,U743,2,The delivery packaging was subpar.
+FB687,Ord687,U946,1,I had to call customer service multiple times to resolve issues.
+FB688,Ord688,U679,4,"Overall experience was good, with minor room for improvement."
+FB689,Ord689,U685,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB690,Ord690,U567,4,Updates about delivery status were timely and accurate.
+FB691,Ord691,U634,3,"The delivery was on time, but packaging could be better."
+FB692,Ord692,U974,5,Ordering process was seamless and quick.
+FB693,Ord693,U970,1,"Delivery was late, and the medicines were not properly packaged."
+FB694,Ord694,U994,1,"Delivery was late, and the medicines were not properly packaged."
+FB695,Ord695,U585,4,Customer service was prompt and helpful.
+FB696,Ord696,U935,2,"Medicines were out of stock, causing a delay in delivery."
+FB697,Ord697,U681,3,The delivery person was polite and professional.
+FB698,Ord698,U648,3,"The delivery was on time, but packaging could be better."
+FB699,Ord699,U450,2,Overall experience was below average.
+FB700,Ord700,U556,1,"Delivery was late, and the medicines were not properly packaged."
+FB701,Ord701,U402,2,"My delivery was incomplete, missing some items."
+FB702,Ord702,U947,1,I had to call customer service multiple times to resolve issues.
+FB703,Ord703,U697,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB704,Ord704,U519,4,The delivery person was courteous and professional.
+FB705,Ord705,U875,3,"Customer service was helpful, but the response time was slow."
+FB706,Ord706,U969,3,The website is functional but could use some updates for better usability.
+FB707,Ord707,U836,2,Communication about the delivery status was lacking.
+FB708,Ord708,U953,3,"Customer service was helpful, but the response time was slow."
+FB709,Ord709,U527,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB710,Ord710,U717,5,"Overall, an outstanding experience! Highly recommended."
+FB711,Ord711,U901,5,I received timely updates about my delivery status.
+FB712,Ord712,U636,3,"Delivery was late, but customer service resolved the issue."
+FB713,Ord713,U603,5,"Excellent customer service, very prompt and helpful."
+FB714,Ord714,U913,2,The ordering process was tedious and time-consuming.
+FB715,Ord715,U815,1,The delivery person was rude and unprofessional.
+FB716,Ord716,U911,4,"Delivery was delayed slightly, but communication was clear."
+FB717,Ord717,U744,3,"Ordering process was straightforward, but some items were out of stock."
+FB718,Ord718,U799,3,"The delivery was on time, but packaging could be better."
+FB719,Ord719,U290,3,"Customer service was helpful, but the response time was slow."
+FB720,Ord720,U441,2,"Medicines were out of stock, causing a delay in delivery."
+FB721,Ord721,U476,3,The delivery person was polite and professional.
+FB722,Ord722,U477,4,Ordering process was smooth and hassle-free.
+FB723,Ord723,U584,3,"Delivery was late, but customer service resolved the issue."
+FB724,Ord724,U968,1,"Delivery was late, and the medicines were not properly packaged."
+FB725,Ord725,U925,2,"Medicines were out of stock, causing a delay in delivery."
+FB726,Ord726,U831,1,"The website was not user-friendly, and the ordering process was complicated."
+FB727,Ord727,U830,4,"Overall experience was good, with minor room for improvement."
+FB728,Ord728,U370,1,I had to call customer service multiple times to resolve issues.
+FB729,Ord729,U851,3,The website is functional but could use some updates for better usability.
+FB730,Ord730,U792,1,I had to call customer service multiple times to resolve issues.
+FB731,Ord731,U479,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB732,Ord732,U735,3,"Customer service was helpful, but the response time was slow."
+FB733,Ord733,U314,3,The delivery person was polite and professional.
+FB734,Ord734,U839,3,The website is functional but could use some updates for better usability.
+FB735,Ord735,U334,5,"Overall, an outstanding experience! Highly recommended."
+FB736,Ord736,U421,2,"Delivery was late, but at least the medicines were intact."
+FB737,Ord737,U900,1,The delivery person was rude and unprofessional.
+FB738,Ord738,U446,2,"My delivery was incomplete, missing some items."
+FB739,Ord739,U955,2,Communication about the delivery status was lacking.
+FB740,Ord740,U870,5,I received timely updates about my delivery status.
+FB741,Ord741,U226,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB742,Ord742,U973,3,Communication about delivery status was adequate but could be improved.
+FB743,Ord743,U663,1,"Delivery was late, and the medicines were not properly packaged."
+FB744,Ord744,U910,4,The delivery person was courteous and professional.
+FB745,Ord745,U334,4,"Overall experience was good, with minor room for improvement."
+FB746,Ord746,U417,2,Communication about the delivery status was lacking.
+FB747,Ord747,U348,1,"The website was not user-friendly, and the ordering process was complicated."
+FB748,Ord748,U831,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB749,Ord749,U901,2,Customer service was slow to respond to my queries.
+FB750,Ord750,U491,3,"Overall experience was average, with room for improvement."
+FB751,Ord751,U834,5,"Delivery was exactly as scheduled, with great communication."
+FB752,Ord752,U912,1,The wrong medicines were delivered to me.
+FB753,Ord753,U492,1,The wrong medicines were delivered to me.
+FB754,Ord754,U462,5,Medicines were delivered accurately and securely.
+FB755,Ord755,U396,1,"The website was not user-friendly, and the ordering process was complicated."
+FB756,Ord756,U882,2,"Delivery was late, but at least the medicines were intact."
+FB757,Ord757,U685,4,Ordering process was smooth and hassle-free.
+FB758,Ord758,U302,2,Overall experience was below average.
+FB759,Ord759,U428,3,The website is functional but could use some updates for better usability.
+FB760,Ord760,U975,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB761,Ord761,U540,1,"Delivery was late, and the medicines were not properly packaged."
+FB762,Ord762,U490,5,The delivery person was very polite and professional.
+FB763,Ord763,U979,2,The website needs improvement; it was challenging to navigate.
+FB764,Ord764,U864,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB765,Ord765,U358,3,"Customer service was helpful, but the response time was slow."
+FB766,Ord766,U660,3,"The delivery was on time, but packaging could be better."
+FB767,Ord767,U378,2,Customer service was slow to respond to my queries.
+FB768,Ord768,U658,4,Medicines arrived in excellent condition.
+FB769,Ord769,U650,2,"Medicines were out of stock, causing a delay in delivery."
+FB770,Ord770,U352,5,Medicines arrived in perfect condition and on time.
+FB771,Ord771,U419,2,Customer service was slow to respond to my queries.
+FB772,Ord772,U566,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB773,Ord773,U425,3,"Delivery was late, but customer service resolved the issue."
+FB774,Ord774,U361,1,"The delivery was delayed, and no explanation was given."
+FB775,Ord775,U342,5,The delivery person was very polite and professional.
+FB776,Ord776,U551,1,I had to call customer service multiple times to resolve issues.
+FB777,Ord777,U292,4,Ordering process was smooth and hassle-free.
+FB778,Ord778,U865,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB779,Ord779,U934,4,"Delivery was on time, and the medicines were well-packaged."
+FB780,Ord780,U458,4,The delivery person was courteous and professional.
+FB781,Ord781,U412,1,Medicines were damaged during delivery.
+FB782,Ord782,U576,2,"Delivery was late, but at least the medicines were intact."
+FB783,Ord783,U698,5,The website is very user-friendly and easy to navigate.
+FB784,Ord784,U950,1,I had to call customer service multiple times to resolve issues.
+FB785,Ord785,U303,2,The ordering process was tedious and time-consuming.
+FB786,Ord786,U207,3,"Customer service was helpful, but the response time was slow."
+FB787,Ord787,U683,4,Ordering process was smooth and hassle-free.
+FB788,Ord788,U563,3,"Customer service was helpful, but the response time was slow."
+FB789,Ord789,U823,1,The delivery person was rude and unprofessional.
+FB790,Ord790,U416,5,The delivery person was very polite and professional.
+FB791,Ord791,U864,3,The website is functional but could use some updates for better usability.
+FB792,Ord792,U700,4,"Delivery was on time, and the medicines were well-packaged."
+FB793,Ord793,U467,1,Medicines were damaged during delivery.
+FB794,Ord794,U447,3,"Ordering process was straightforward, but some items were out of stock."
+FB795,Ord795,U843,2,Customer service was slow to respond to my queries.
+FB796,Ord796,U334,4,"Overall experience was good, with minor room for improvement."
+FB797,Ord797,U507,4,The website is easy to use and navigate.
+FB798,Ord798,U906,3,"Ordering process was straightforward, but some items were out of stock."
+FB799,Ord799,U332,2,The website needs improvement; it was challenging to navigate.
+FB800,Ord800,U395,4,"Delivery was delayed slightly, but communication was clear."
+FB801,Ord801,U859,3,"The delivery was on time, but packaging could be better."
+FB802,Ord802,U860,3,"Overall experience was average, with room for improvement."
+FB803,Ord803,U356,4,The delivery person was courteous and professional.
+FB804,Ord804,U326,3,The website is functional but could use some updates for better usability.
+FB805,Ord805,U873,4,"Overall experience was good, with minor room for improvement."
+FB806,Ord806,U756,4,Customer service was prompt and helpful.
+FB807,Ord807,U753,2,Communication about the delivery status was lacking.
+FB808,Ord808,U511,3,"Ordering process was straightforward, but some items were out of stock."
+FB809,Ord809,U862,1,"The website was not user-friendly, and the ordering process was complicated."
+FB810,Ord810,U664,3,"Customer service was helpful, but the response time was slow."
+FB811,Ord811,U472,4,Updates about delivery status were timely and accurate.
+FB812,Ord812,U566,5,Medicines were delivered accurately and securely.
+FB813,Ord813,U205,5,Medicines were delivered accurately and securely.
+FB814,Ord814,U532,3,The delivery person was polite and professional.
+FB815,Ord815,U731,5,"Overall, an outstanding experience! Highly recommended."
+FB816,Ord816,U774,5,"Delivery was exactly as scheduled, with great communication."
+FB817,Ord817,U390,4,The website is easy to use and navigate.
+FB818,Ord818,U407,5,"Delivery was exactly as scheduled, with great communication."
+FB819,Ord819,U619,5,The delivery person was very polite and professional.
+FB820,Ord820,U378,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB821,Ord821,U682,2,Communication about the delivery status was lacking.
+FB822,Ord822,U558,4,Updates about delivery status were timely and accurate.
+FB823,Ord823,U964,2,"Delivery was late, but at least the medicines were intact."
+FB824,Ord824,U727,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB825,Ord825,U725,1,The wrong medicines were delivered to me.
+FB826,Ord826,U402,4,The website is easy to use and navigate.
+FB827,Ord827,U704,2,The delivery packaging was subpar.
+FB828,Ord828,U491,5,"Delivery was exactly as scheduled, with great communication."
+FB829,Ord829,U520,5,Ordering process was seamless and quick.
+FB830,Ord830,U689,1,"Delivery was late, and the medicines were not properly packaged."
+FB831,Ord831,U519,3,Communication about delivery status was adequate but could be improved.
+FB832,Ord832,U706,3,The website is functional but could use some updates for better usability.
+FB833,Ord833,U708,1,There were no updates provided about the delivery status.
+FB834,Ord834,U774,1,I did not receive all the items I ordered.
+FB835,Ord835,U847,5,"Overall, an outstanding experience! Highly recommended."
+FB836,Ord836,U845,1,"Delivery was late, and the medicines were not properly packaged."
+FB837,Ord837,U796,5,The delivery person was very polite and professional.
+FB838,Ord838,U372,4,The delivery person was courteous and professional.
+FB839,Ord839,U458,5,The website is very user-friendly and easy to navigate.
+FB840,Ord840,U450,5,Medicines were delivered accurately and securely.
+FB841,Ord841,U223,4,The website is easy to use and navigate.
+FB842,Ord842,U402,4,Ordering process was smooth and hassle-free.
+FB843,Ord843,U303,3,Communication about delivery status was adequate but could be improved.
+FB844,Ord844,U555,3,"Customer service was helpful, but the response time was slow."
+FB845,Ord845,U515,3,"The delivery was on time, but packaging could be better."
+FB846,Ord846,U584,4,Customer service was prompt and helpful.
+FB847,Ord847,U567,2,"My delivery was incomplete, missing some items."
+FB848,Ord848,U482,5,"Delivery was exactly as scheduled, with great communication."
+FB849,Ord849,U422,2,The delivery person arrived much later than the estimated time.
+FB850,Ord850,U610,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB851,Ord851,U290,1,"The delivery was delayed, and no explanation was given."
+FB852,Ord852,U800,1,"Very poor service, I am not satisfied at all."
+FB853,Ord853,U405,4,"Delivery was on time, and the medicines were well-packaged."
+FB854,Ord854,U314,1,"Delivery was late, and the medicines were not properly packaged."
+FB855,Ord855,U755,1,The delivery person was rude and unprofessional.
+FB856,Ord856,U987,4,"Delivery was delayed slightly, but communication was clear."
+FB857,Ord857,U789,4,Medicines arrived in excellent condition.
+FB858,Ord858,U476,5,The website is very user-friendly and easy to navigate.
+FB859,Ord859,U898,2,"Delivery was late, but at least the medicines were intact."
+FB860,Ord860,U747,1,I had to call customer service multiple times to resolve issues.
+FB861,Ord861,U535,4,"Delivery was delayed slightly, but communication was clear."
+FB862,Ord862,U650,3,Communication about delivery status was adequate but could be improved.
+FB863,Ord863,U498,3,"The delivery was on time, but packaging could be better."
+FB864,Ord864,U643,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB865,Ord865,U405,5,"Excellent customer service, very prompt and helpful."
+FB866,Ord866,U431,4,"Overall experience was good, with minor room for improvement."
+FB867,Ord867,U905,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB868,Ord868,U398,5,Ordering process was seamless and quick.
+FB869,Ord869,U470,4,Ordering process was smooth and hassle-free.
+FB870,Ord870,U547,5,"Overall, an outstanding experience! Highly recommended."
+FB871,Ord871,U776,5,The delivery person was very polite and professional.
+FB872,Ord872,U315,5,Medicines arrived in perfect condition and on time.
+FB873,Ord873,U564,4,The delivery person was courteous and professional.
+FB874,Ord874,U497,5,The delivery person was very polite and professional.
+FB875,Ord875,U344,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB876,Ord876,U548,1,"Very poor service, I am not satisfied at all."
+FB877,Ord877,U320,2,"Medicines were out of stock, causing a delay in delivery."
+FB878,Ord878,U370,2,The ordering process was tedious and time-consuming.
+FB879,Ord879,U966,5,"Delivery was exactly as scheduled, with great communication."
+FB880,Ord880,U823,2,The ordering process was tedious and time-consuming.
+FB881,Ord881,U404,1,"The delivery was delayed, and no explanation was given."
+FB882,Ord882,U994,1,"Delivery was late, and the medicines were not properly packaged."
+FB883,Ord883,U329,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB884,Ord884,U296,1,I did not receive all the items I ordered.
+FB885,Ord885,U288,3,"Overall experience was average, with room for improvement."
+FB886,Ord886,U993,3,"Overall experience was average, with room for improvement."
+FB887,Ord887,U314,3,The website is functional but could use some updates for better usability.
+FB888,Ord888,U626,1,The wrong medicines were delivered to me.
+FB889,Ord889,U708,4,Ordering process was smooth and hassle-free.
+FB890,Ord890,U957,1,I did not receive all the items I ordered.
+FB891,Ord891,U213,3,The website is functional but could use some updates for better usability.
+FB892,Ord892,U998,2,Customer service was slow to respond to my queries.
+FB893,Ord893,U623,4,"Overall experience was good, with minor room for improvement."
+FB894,Ord894,U464,4,The website is easy to use and navigate.
+FB895,Ord895,U316,4,"Medicines were delivered as ordered, and the packaging was secure."
+FB896,Ord896,U798,2,Customer service was slow to respond to my queries.
+FB897,Ord897,U277,1,"Delivery was late, and the medicines were not properly packaged."
+FB898,Ord898,U675,5,The website is very user-friendly and easy to navigate.
+FB899,Ord899,U521,3,"Ordering process was straightforward, but some items were out of stock."
+FB900,Ord900,U573,1,I had to call customer service multiple times to resolve issues.
+FB901,Ord901,U448,1,The delivery person was rude and unprofessional.
+FB902,Ord902,U681,3,"Ordering process was straightforward, but some items were out of stock."
+FB903,Ord903,U822,4,"Overall experience was good, with minor room for improvement."
+FB904,Ord904,U248,3,Communication about delivery status was adequate but could be improved.
+FB905,Ord905,U795,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB906,Ord906,U377,1,There were no updates provided about the delivery status.
+FB907,Ord907,U986,2,The delivery packaging was subpar.
+FB908,Ord908,U266,1,"Very poor service, I am not satisfied at all."
+FB909,Ord909,U628,5,"Delivery was exactly as scheduled, with great communication."
+FB910,Ord910,U697,1,The delivery person was rude and unprofessional.
+FB911,Ord911,U505,3,"Delivery was late, but customer service resolved the issue."
+FB912,Ord912,U305,5,Medicines arrived in perfect condition and on time.
+FB913,Ord913,U819,1,Medicines were damaged during delivery.
+FB914,Ord914,U736,1,"Delivery was late, and the medicines were not properly packaged."
+FB915,Ord915,U757,3,"Customer service was helpful, but the response time was slow."
+FB916,Ord916,U310,3,"Overall experience was average, with room for improvement."
+FB917,Ord917,U227,4,The website is easy to use and navigate.
+FB918,Ord918,U937,5,The delivery person was very polite and professional.
+FB919,Ord919,U336,2,The delivery packaging was subpar.
+FB920,Ord920,U946,2,"My delivery was incomplete, missing some items."
+FB921,Ord921,U527,2,"Medicines were out of stock, causing a delay in delivery."
+FB922,Ord922,U273,3,"The delivery was on time, but packaging could be better."
+FB923,Ord923,U506,1,"The delivery was delayed, and no explanation was given."
+FB924,Ord924,U760,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB925,Ord925,U592,3,The website is functional but could use some updates for better usability.
+FB926,Ord926,U763,4,The delivery person was courteous and professional.
+FB927,Ord927,U887,5,"Overall, an outstanding experience! Highly recommended."
+FB928,Ord928,U532,2,"Delivery was late, but at least the medicines were intact."
+FB929,Ord929,U662,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB930,Ord930,U411,1,The delivery person was rude and unprofessional.
+FB931,Ord931,U471,5,"Delivery was super fast, and the medicines were perfectly packaged."
+FB932,Ord932,U305,1,Medicines were damaged during delivery.
+FB933,Ord933,U507,4,The delivery person was courteous and professional.
+FB934,Ord934,U343,1,I had to call customer service multiple times to resolve issues.
+FB935,Ord935,U926,2,"My delivery was incomplete, missing some items."
+FB936,Ord936,U651,2,Communication about the delivery status was lacking.
+FB937,Ord937,U460,1,"The delivery was delayed, and no explanation was given."
+FB938,Ord938,U715,5,I received timely updates about my delivery status.
+FB939,Ord939,U374,1,There were no updates provided about the delivery status.
+FB940,Ord940,U229,2,"Medicines were out of stock, causing a delay in delivery."
+FB941,Ord941,U986,3,"Delivery was late, but customer service resolved the issue."
+FB942,Ord942,U865,3,Communication about delivery status was adequate but could be improved.
+FB943,Ord943,U798,5,Medicines were delivered accurately and securely.
+FB944,Ord944,U696,4,"Delivery was on time, and the medicines were well-packaged."
+FB945,Ord945,U547,1,Medicines were damaged during delivery.
+FB946,Ord946,U649,1,"The delivery was delayed, and no explanation was given."
+FB947,Ord947,U644,5,"Overall, an outstanding experience! Highly recommended."
+FB948,Ord948,U507,5,I received timely updates about my delivery status.
+FB949,Ord949,U767,5,Ordering process was seamless and quick.
+FB950,Ord950,U724,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB951,Ord951,U298,4,Medicines arrived in excellent condition.
+FB952,Ord952,U844,5,I received timely updates about my delivery status.
+FB953,Ord953,U870,4,"Delivery was delayed slightly, but communication was clear."
+FB954,Ord954,U206,1,There were no updates provided about the delivery status.
+FB955,Ord955,U787,5,The delivery person was very polite and professional.
+FB956,Ord956,U358,4,"Delivery was delayed slightly, but communication was clear."
+FB957,Ord957,U584,5,I received timely updates about my delivery status.
+FB958,Ord958,U326,4,The website is easy to use and navigate.
+FB959,Ord959,U623,4,"Delivery was delayed slightly, but communication was clear."
+FB960,Ord960,U309,5,"Overall, an outstanding experience! Highly recommended."
+FB961,Ord961,U313,2,Overall experience was below average.
+FB962,Ord962,U642,4,"Delivery was on time, and the medicines were well-packaged."
+FB963,Ord963,U321,4,"Overall experience was good, with minor room for improvement."
+FB964,Ord964,U269,1,"The website was not user-friendly, and the ordering process was complicated."
+FB965,Ord965,U701,5,Medicines arrived in perfect condition and on time.
+FB966,Ord966,U541,1,Medicines were damaged during delivery.
+FB967,Ord967,U648,1,There were no updates provided about the delivery status.
+FB968,Ord968,U359,2,"Delivery was late, but at least the medicines were intact."
+FB969,Ord969,U273,1,I did not receive all the items I ordered.
+FB970,Ord970,U811,1,The wrong medicines were delivered to me.
+FB971,Ord971,U603,1,The wrong medicines were delivered to me.
+FB972,Ord972,U490,1,Medicines were damaged during delivery.
+FB973,Ord973,U595,3,"Medicines arrived in good condition, but the packaging was not very secure."
+FB974,Ord974,U624,3,"Overall experience was average, with room for improvement."
+FB975,Ord975,U717,2,The delivery packaging was subpar.
+FB976,Ord976,U856,3,"Medicines were delivered as ordered, but the packaging could be improved."
+FB977,Ord977,U896,1,"Delivery was late, and the medicines were not properly packaged."
+FB978,Ord978,U217,2,The ordering process was tedious and time-consuming.
+FB979,Ord979,U848,5,The website is very user-friendly and easy to navigate.
+FB980,Ord980,U696,2,The delivery packaging was subpar.
+FB981,Ord981,U729,5,"Excellent customer service, very prompt and helpful."
+FB982,Ord982,U551,2,The website needs improvement; it was challenging to navigate.
+FB983,Ord983,U363,2,The delivery person arrived much later than the estimated time.
+FB984,Ord984,U642,5,"Delivery was exactly as scheduled, with great communication."
+FB985,Ord985,U568,5,"Delivery was exactly as scheduled, with great communication."
+FB986,Ord986,U868,3,"Customer service was helpful, but the response time was slow."
+FB987,Ord987,U300,2,Customer service was slow to respond to my queries.
+FB988,Ord988,U998,4,The website is easy to use and navigate.
+FB989,Ord989,U729,4,"Overall experience was good, with minor room for improvement."
+FB990,Ord990,U283,3,"Delivery was late, but customer service resolved the issue."
+FB991,Ord991,U839,5,The website is very user-friendly and easy to navigate.
+FB992,Ord992,U755,2,"My delivery was incomplete, missing some items."
+FB993,Ord993,U721,4,Ordering process was smooth and hassle-free.
+FB994,Ord994,U392,2,The website needs improvement; it was challenging to navigate.
+FB995,Ord995,U260,5,I received timely updates about my delivery status.
+FB996,Ord996,U380,3,"Customer service was helpful, but the response time was slow."
+FB997,Ord997,U242,2,The ordering process was tedious and time-consuming.
+FB998,Ord998,U712,2,The delivery person arrived much later than the estimated time.
+FB999,Ord999,U742,2,Overall experience was below average.
+FB1000,Ord1000,U287,2,Communication about the delivery status was lacking.
